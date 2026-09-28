@@ -1,0 +1,78 @@
+{
+  "avg_implied_total": 22.42,
+  "avg_spread": 0.12,
+  "clusters": {
+    "QB_starter": {
+      "beta_total": 0.8976,
+      "beta_spread": 0.7415
+    },
+    "RB_backup": {
+      "beta_total": 0.0624,
+      "beta_spread": 0.0422
+    },
+    "RB_bellcow_dual": {
+      "beta_total": 0.7484,
+      "beta_spread": 0.7594
+    },
+    "RB_committee_early_down": {
+      "beta_total": 0.6236,
+      "beta_spread": 0.4928
+    },
+    "RB_committee_featured": {
+      "beta_total": -0.0423,
+      "beta_spread": -0.1875
+    },
+    "RB_goalline": {
+      "beta_total": -0.2783,
+      "beta_spread": -0.0744
+    },
+    "RB_workhorse_runner": {
+      "beta_total": -0.1477,
+      "beta_spread": 0.0972
+    },
+    "RB_workhorse_volume": {
+      "beta_total": 0.435,
+      "beta_spread": 0.4358
+    },
+    "TE_TE1": {
+      "beta_total": 0.5208,
+      "beta_spread": 0.3134
+    },
+    "TE_TE2_rotational": {
+      "beta_total": 0.0595,
+      "beta_spread": 0.0542
+    },
+    "TE_alpha": {
+      "beta_total": 0.0591,
+      "beta_spread": 0.2377
+    },
+    "TE_depth": {
+      "beta_total": -0.0883,
+      "beta_spread": 0.0104
+    },
+    "WR_WR2": {
+      "beta_total": 0.6503,
+      "beta_spread": 0.3721
+    },
+    "WR_WR3_rotational": {
+      "beta_total": 0.4053,
+      "beta_spread": 0.2159
+    },
+    "WR_alpha_deep": {
+      "beta_total": -0.18,
+      "beta_spread": 0.0077
+    },
+    "WR_alpha_possession": {
+      "beta_total": 0.6391,
+      "beta_spread": 0.5131
+    },
+    "WR_deep_threat": {
+      "beta_total": 0.1211,
+      "beta_spread": 0.1015
+    },
+    "WR_depth": {
+      "beta_total": 0.1024,
+      "beta_spread": 0.1054
+    }
+  }
+}

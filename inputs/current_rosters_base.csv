@@ -1,0 +1,654 @@
+Rank,player_name,position,position_rank,team,adp,profile_season,cluster,cluster_override,effective_cluster,subcluster,role_tag,games,ppr_pg,offense_pct,wopr,adot,carry_share,target_share,rz_carry_share,rz_targets_pg,note
+1,Jahmyr Gibbs,RB,RB1,DET,1.1,2025,RB_workhorse_receiving,RB_bellcow_dual,RB_workhorse_receiving,RB_workhorse_receiving,,16,21.662,0.668,0.255,0.388,0.55,0.163,0.6,0.812,
+2,Bijan Robinson,RB,RB2,ATL,2,2025,RB_bellcow_dual,,RB_bellcow_dual,RB_bellcow_dual,,16,22.719,0.778,0.325,0.825,0.616,0.204,0.531,0.812,
+3,Ja'Marr Chase,WR,WR1,CIN,3.1,2025,WR_alpha_possession,,WR_alpha_possession,WR_alpha_possession_s0,,15,19.333,0.94,0.739,8.804,0.011,0.324,0,1.4,
+4,Puka Nacua,WR,WR2,LAR,4,2025,WR_alpha_possession,,WR_alpha_possession_s1,WR_alpha_possession_s1,,15,23.267,0.682,0.698,9.653,0.02,0.302,0.008,0.933,
+5,Jaxon Smith-Njigba,WR,WR3,SEA,5.4,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,16,21.594,0.771,0.897,11.156,0.015,0.371,0,1.062,
+6,Christian McCaffrey,RB,RB3,SF,6.5,2025,RB_bellcow_every_down,,RB_bellcow_every_down,RB_bellcow_every_down,,16,25.306,0.829,0.398,2.401,0.657,0.232,0.777,1.5,
+7,Amon-Ra St. Brown,WR,WR4,DET,7.2,2025,WR_alpha_possession,,WR_alpha_possession,WR_alpha_possession_s0,,16,18.694,0.846,0.728,7.144,0.007,0.31,0.006,2,
+8,Jonathan Taylor,RB,RB4,IND,7.8,2025,RB_bellcow_runner,,RB_bellcow_runner,RB_bellcow_runner,,16,22.275,0.845,0.161,-0.704,0.761,0.113,0.768,0.312,
+9,CeeDee Lamb,WR,WR5,DAL,9.6,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,12,16.625,0.805,0.655,11.711,0.003,0.268,0,1.417,
+10,Justin Jefferson,WR,WR6,MIN,9.9,2025,WR_alpha_possession,,WR_alpha_possession_s1,WR_alpha_possession_s1,,16,11.444,0.953,0.738,10.101,0.002,0.303,0,1.125,
+11,Ashton Jeanty,RB,RB5,LV,11,2025,RB_bellcow_dual,,RB_bellcow_dual,RB_bellcow_dual,,16,14.544,0.767,0.177,-0.393,0.705,0.145,0.651,0.625,
+12,James Cook,RB,RB6,BUF,11.7,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,16,18.794,0.606,0.135,0.569,0.615,0.087,0.555,0.188,
+13,Saquon Barkley,RB,RB7,PHI,13.4,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,16,14.519,0.783,0.176,0.741,0.624,0.121,0.501,0.5,
+14,Omarion Hampton,RB,RB8,LAC,14.5,2025,RB_workhorse_early_down,,RB_workhorse_early_down,RB_workhorse_early_down,,9,15.078,0.634,0.156,-1.196,0.548,0.118,0.687,0.222,
+15,Kenneth Walker III,RB,RB9,KC,15.8,2025,RB_committee_early_down,RB_workhorse_volume,RB_committee_early_down_s1,RB_committee_early_down_s1,,16,10.912,0.472,0.106,-0.439,0.443,0.078,0.388,0.188,
+16,Chase Brown,RB,RB10,CIN,16.5,2025,RB_bellcow_dual,,RB_bellcow_dual,RB_bellcow_dual,,16,16.475,0.672,0.225,0.646,0.629,0.142,0.677,0.688,
+17,De'Von Achane,RB,RB11,MIA,17.4,2025,RB_bellcow_dual,,RB_bellcow_dual,RB_bellcow_dual,,16,20.175,0.754,0.289,0.233,0.613,0.188,0.425,0.688,
+18,Derrick Henry,RB,RB12,BAL,17.8,2025,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,16,16.681,0.535,0.076,1.222,0.59,0.048,0.531,0.125,
+19,A.J. Brown,WR,WR7,NE,18.3,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,15,14.687,0.907,0.678,12.002,0,0.287,0,0.867,
+20,Drake London,WR,WR8,ATL,19.6,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,11,16.736,0.904,0.725,11.119,0,0.3,0,1.273,
+21,Brock Bowers,TE,TE1,LV,20.6,2025,TE_alpha_elite,,TE_alpha_elite,TE_alpha_elite,,12,14.683,0.859,0.526,6.369,0.008,0.234,0,1.5,
+22,Nico Collins,WR,WR9,HOU,22.3,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,15,15.08,0.772,0.609,12.451,0.004,0.242,0.007,1.267,
+23,George Pickens,WR,WR10,DAL,23.6,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,16,18.125,0.834,0.583,11.679,0,0.231,0,1.375,
+24,Jeremiyah Love,RB,RB13,ARI,24.5,,,RB_workhorse_receiving,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+25,Rashee Rice,WR,WR11,KC,25.5,2025,WR_possession_WR2,,WR_possession_WR2,WR_possession_WR2,,8,18.762,0.749,0.531,4.637,0.026,0.29,0.06,2.375,
+26,DeVonta Smith,WR,WR12,PHI,26.4,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,16,12.1,0.888,0.613,12.064,0,0.254,0,0.75,
+27,Breece Hall,RB,RB14,NYJ,27.8,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,16,12.979,0.644,0.154,-0.343,0.573,0.106,0.411,0.562,
+28,Trey McBride,TE,TE2,ARI,28.7,2025,TE_alpha_elite,,TE_alpha_elite,TE_alpha_elite,,16,18.9,0.911,0.594,6.786,0,0.278,0,2.125,
+29,Chris Olave,WR,WR13,NO,29.5,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,16,16.75,0.843,0.725,12.236,0.004,0.292,0,0.938,
+30,Zay Flowers,WR,WR14,BAL,30.3,2025,WR_alpha_possession,,WR_alpha_possession_s1,WR_alpha_possession_s1,,16,13.344,0.858,0.686,9.469,0.02,0.295,0.016,0.75,
+31,Kyren Williams,RB,RB15,LAR,31.4,2025,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,16,15.762,0.686,0.129,2.084,0.585,0.077,0.541,0.562,
+32,Tee Higgins,WR,WR15,CIN,32.4,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,14,13.779,0.804,0.488,14.622,0,0.179,0,0.929,
+33,Emeka Egbuka,WR,WR16,TB,33.5,2025,WR_alpha_deep,WR_WR2_featured,WR_alpha_deep_s1,WR_alpha_deep_s1,,16,12.119,0.789,0.617,12.834,0.005,0.242,0.062,0.875,
+34,Travis Etienne Jr.,RB,RB16,NO,34.9,2025,RB_workhorse_early_down,,RB_workhorse_early_down,RB_workhorse_early_down,,16,15.569,0.604,0.14,-1.999,0.534,0.102,0.389,0.625,
+35,Josh Allen,QB,QB1,BUF,35.4,2025,QB_rushing,QB_dual_threat_elite,QB_rushing,QB_rushing,,16,22.789,0.979,0,,0.228,0,0.254,0,
+36,Ladd McConkey,WR,WR17,LAC,35.5,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,16,11.306,0.775,0.499,10.241,0,0.211,0,0.938,
+37,Javonte Williams,RB,RB17,DAL,36.2,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,16,15.175,0.69,0.119,-1.262,0.595,0.086,0.65,0.75,
+38,Malik Nabers,WR,WR18,NYG,37.8,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,4,14.275,0.795,0.713,14.814,0,0.271,0,1,
+39,Tetairoa McMillan,WR,WR19,CAR,38.9,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,16,12.556,0.871,0.718,12.012,0,0.261,0,0.875,
+40,Garrett Wilson,WR,WR20,NYJ,39.1,2025,WR_alpha_possession,,WR_alpha_possession_s1,WR_alpha_possession_s1,,7,14.214,0.87,0.925,9.874,0,0.354,0,0.714,
+41,Josh Jacobs,RB,RB18,GB,40.5,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,15,15.807,0.591,0.124,-0.999,0.573,0.102,0.65,0.4,
+42,Jaylen Waddle,WR,WR21,DEN,42.4,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,16,12.132,0.776,0.648,13.108,0.004,0.233,0,0.688,
+43,Cam Skattebo,RB,RB19,NYG,43.7,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s1,goalline,8,15.962,0.522,0.189,0.361,0.403,0.129,0.463,0.5,
+44,Luther Burden,WR,WR22,CHI,44.2,2025,WR_depth,WR_WR2_featured,WR_depth,WR_depth,,14,8.6,0.381,0.273,6.762,0.011,0.13,0,0.286,
+45,Terry McLaurin,WR,WR23,WAS,44.4,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,9,11.611,0.704,0.613,14.634,0,0.235,0,0.889,
+46,Mike Evans,WR,WR24,SF,45.6,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,7,11.343,0.643,0.656,14.131,0,0.265,0,1.286,
+47,Colston Loveland,TE,TE3,CHI,46.9,2025,TE_TE1,TE_alpha_elite,TE_TE1_s0,TE_TE1_s0,,15,9.333,0.627,0.326,9.902,0.002,0.147,0.011,0.867,
+48,David Montgomery,RB,RB20,HOU,47.8,2025,RB_committee_early_down,,RB_committee_early_down_s0,RB_committee_early_down_s0,,16,10.026,0.368,0.085,0.517,0.358,0.056,0.37,0.125,
+49,Davante Adams,WR,WR25,LAR,49.5,2025,WR_alpha_deep,,WR_alpha_deep,WR_alpha_deep_s0,,14,15.921,0.714,0.641,12.561,0,0.251,0,2.286,
+50,Jameson Williams,WR,WR26,DET,50.4,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,16,12.906,0.899,0.507,13.427,0.015,0.184,0.01,0.5,
+51,D'Andre Swift,RB,RB21,CHI,50.6,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s2,goalline,15,14.853,0.579,0.135,-1.287,0.475,0.095,0.435,0.067,
+52,TreVeyon Henderson,RB,RB22,NE,52.5,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,16,11.806,0.462,0.134,-0.114,0.364,0.089,0.328,0.25,
+53,Quinshon Judkins,RB,RB23,CLE,53.8,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,14,12.129,0.505,0.119,-0.375,0.667,0.083,0.553,0.071,
+54,Bucky Irving,RB,RB24,TB,QB_backup.0.6,2025,RB_workhorse_volume,RB_committee_featured,RB_workhorse_volume,RB_workhorse_volume,,9,14.189,0.614,0.146,-1.829,0.596,0.109,0.483,0.444,
+55,Lamar Jackson,QB,QB2,BAL,55.2,2025,QB_rushing,QB_dual_threat_elite,QB_rushing,QB_rushing,,12,16.203,0.916,0,,0.197,0,0.207,0,
+56,Bhayshul Tuten,RB,RB25,JAX,56.2,2025,RB_backup,RB_committee_featured,RB_backup,RB_backup,,14,5.736,0.208,0.049,0.75,0.187,0.032,0.264,0.143,
+57,D.J. Moore,WR,WR27,BUF,56.4,2025,WR_WR3_high_volume,WR_WR2_featured,WR_WR3_high_volume,WR_WR3_high_volume,,16,10.63,0.848,0.387,11.622,0.032,0.165,0.018,0.688,
+58,Christian Watson,WR,WR28,GB,56.6,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,10,13.24,0.677,0.548,18.476,0.004,0.203,0.025,0.6,
+59,Carnell Tate,WR,WR29,TEN,58.5,,,WR_WR2_featured,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+60,Rome Odunze,WR,WR30,CHI,60,2025,WR_alpha_deep,WR_WR2_featured,WR_alpha_deep_s1,WR_alpha_deep_s1,,12,12.175,0.881,0.602,13.987,0,0.236,0,1.083,
+61,Brian Thomas,WR,WR31,JAX,61.1,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,13,10.069,0.792,0.517,14.39,0.008,0.196,0.009,0.538,
+62,Jadarian Price,RB,RB26,SEA,62.8,,,RB_committee_early_down,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+63,Jordyn Tyson,WR,WR32,NO,63.5,,,WR_WR2_s1,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+64,Tyler Warren,TE,TE4,IND,64.7,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,16,11.306,0.839,0.424,5.387,0.015,0.213,0.056,1.312,
+65,Drake Maye,QB,QB3,NE,66.2,2025,QB_rushing,,QB_rushing,QB_rushing,,16,21.014,0.97,0.001,-8,0.216,0.001,0.224,0,
+66,Jayden Daniels,QB,QB4,WAS,66.8,2025,QB_dual_threat_elite,,QB_dual_threat_elite,QB_dual_threat_elite,,7,16.326,0.903,0,,0.294,0,0.282,0,
+67,Joe Burrow,QB,QB5,CIN,67.5,2025,QB_pocket,,QB_pocket,QB_pocket,,7,16.189,0.861,0,,0.058,0,0.03,0,
+68,Parker Washington,WR,WR33,JAX,67.5,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,14,11.786,0.63,0.449,12.274,0.021,0.185,0.008,1.143,
+69,Marvin Harrison,WR,WR34,ARI,67.9,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,12,10.65,0.712,0.502,13.76,0,0.181,0,0.917,
+70,Caleb Williams,QB,QB6,CHI,71.5,2025,QB_pocket,,QB_pocket,QB_pocket,,16,18.85,0.99,0.005,-1.5,0.164,0.004,0.197,0.062,
+71,Jalen Hurts,QB,QB7,PHI,71.9,2025,QB_rushing,,QB_rushing,QB_rushing,,16,18.816,0.976,0,,0.233,0,0.298,0,
+72,Tony Pollard,RB,RB27,TEN,72.3,2025,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,16,11.019,0.624,0.116,0.535,0.638,0.075,0.331,0,
+73,Makai Lemon,WR,WR35,PHI,73.2,,,WR_WR3_rotational_s0,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+74,Jaylen Warren,RB,RB28,PIT,73.7,2025,RB_workhorse_volume,,RB_workhorse_volume,RB_workhorse_volume,,15,13.48,0.517,0.112,-2.391,0.578,0.095,0.622,0.267,
+75,Quentin Johnston,WR,WR36,LAC,74.7,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,13,13.169,0.788,0.496,11.463,0.006,0.2,0,1.154,
+76,Chuba Hubbard,RB,RB30,CAR,76.8,2025,RB_committee_early_down,RB_committee_featured,RB_committee_early_down_s2,RB_committee_early_down_s2,,14,8.693,0.459,0.108,-0.843,0.337,0.09,0.345,0.429,
+77,Rhamondre Stevenson,RB,RB29,NE,76.8,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s1,goalline,13,11.038,0.603,0.182,4.026,0.329,0.098,0.435,0.385,
+78,DK Metcalf,WR,WR37,PIT,77.2,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,15,12.48,0.873,0.596,9.938,0.004,0.224,0.008,0.867,
+79,Alec Pierce,WR,WR38,IND,80,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,14,11.007,0.872,0.544,18.783,0,0.173,0,0.5,
+80,Dak Prescott,QB,QB8,DAL,80.9,2025,QB_pocket,,QB_pocket,QB_pocket,,16,19.568,0.978,0,,0.114,0,0.116,0,
+81,Justin Herbert,QB,QB9,LAC,81.9,2025,QB_rushing,,QB_rushing,QB_rushing,,16,17.93,0.968,0,,0.192,0,0.188,0,
+82,Tucker Kraft,TE,TE5,GB,82.4,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,8,14.65,0.86,0.351,5.472,0.005,0.19,0,1.5,
+83,Courtland Sutton,WR,WR39,DEN,83.2,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,16,13.638,0.858,0.569,12.336,0,0.218,0,1.25,
+84,Jayden Reed,WR,WR40,GB,84.1,2025,WR_WR3_rotational,WR_possession_WR2,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,5,9.7,0.53,0.344,7.833,0.02,0.171,0,0.8,
+85,Trevor Lawrence,QB,QB10,JAX,85.9,2025,QB_rushing,,QB_rushing,QB_rushing,,16,19.68,0.976,0,,0.172,0,0.218,0,
+86,RJ Harvey,RB,RB31,DEN,86.3,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,16,12.644,0.412,0.147,0.992,0.302,0.098,0.255,0.562,
+87,Rico Dowdle,RB,RB32,PIT,87.2,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s2,,16,13.331,0.562,0.149,-1.194,0.5,0.113,0.399,0.312,
+88,Chris Godwin,WR,WR41,TB,87.3,2025,WR_possession_WR2,,WR_possession_WR2,WR_possession_WR2,,8,10.15,0.71,0.415,6.675,0,0.196,0,1,
+89,Jordan Addison,WR,WR42,MIN,88.8,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,13,10.254,0.845,0.522,14.118,0.005,0.189,0,0.923,
+90,Josh Downs,WR,WR43,IND,90,2025,WR_WR3_high_volume,WR_possession_WR2,WR_WR3_high_volume,WR_WR3_high_volume,,15,8.587,0.584,0.386,7.182,0.003,0.178,0,1,
+91,Blake Corum,RB,RB33,LAR,91.6,2025,RB_backup,RB_committee_early_down,RB_backup,RB_backup,,16,7.144,0.289,0.034,1.75,0.294,0.022,0.303,0.062,
+92,Patrick Mahomes,QB,QB11,KC,92.8,2025,QB_pocket,,QB_pocket,QB_pocket,,14,20.406,0.974,0.002,-8,0.176,0.002,0.189,0,
+93,Kyle Monangai,RB,RB34,CHI,93.6,2025,RB_committee_early_down,,RB_committee_early_down_s0,RB_committee_early_down_s0,,16,8.8,0.408,0.087,-0.655,0.32,0.059,0.366,0.188,
+94,Xavier Worthy,WR,WR44,KC,94.1,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,14,7.85,0.706,0.428,12.332,0.034,0.161,0,0.429,
+95,Brock Purdy,QB,QB12,SF,95.7,2025,QB_pocket,,QB_pocket,QB_pocket,,8,21.525,0.975,0,,0.113,0,0.098,0,
+96,Sam LaPorta,TE,TE6,DET,95.8,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,9,11.878,0.907,0.399,5.64,0,0.185,0,0.667,
+97,Ricky Pearsall,WR,WR45,SF,96.9,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,9,9.844,0.781,0.492,13.196,0.007,0.18,0,0.444,
+98,J.K. Dobbins,RB,RB35,DEN,98.2,2025,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,10,11.59,0.511,0.061,-2.2,0.573,0.046,0.553,0,
+99,Michael Pittman Jr.,WR,WR46,PIT,99.7,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,16,12.456,0.853,0.47,8.18,0,0.212,0,1,
+100,Michael Wilson,WR,WR47,ARI,100.5,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,16,12.481,0.806,0.486,11.799,0,0.186,0,0.938,
+101,Jaxson Dart,QB,QB13,NYG,101.6,2025,QB_rushing,,QB_rushing,QB_rushing,,13,17.014,0.824,0,,0.211,0,0.303,0,
+102,Jonathon Brooks,RB,RB36,CAR,101.8,,,RB_committee_early_down,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+103,Harold Fannin,TE,TE7,CLE,104.9,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,16,11.65,0.759,0.458,5.999,0.019,0.218,0.018,0.688,
+104,Kyle Pitts,TE,TE8,ATL,105.3,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,16,12.438,0.878,0.486,7.643,0,0.222,0,0.688,
+105,Matthew Stafford,QB,QB14,LAR,105.5,2025,QB_pocket,,QB_pocket,QB_pocket,,16,20.232,0.987,0,,0.064,0,0.063,0,
+106,Jakobi Meyers,WR,WR48,JAX,106.3,2025,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,15,11.093,0.854,0.551,9.6,0.011,0.231,0.019,1,
+107,Bo Nix,QB,QB15,DEN,107,2025,QB_pocket,,QB_pocket,QB_pocket,,16,18.394,0.996,0.003,2,0.178,0.002,0.196,0.062,
+108,Kenneth Gainwell,RB,RB37,TB,107.8,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,16,12.494,0.486,0.23,-0.517,0.27,0.16,0.217,1.062,
+109,Rachaad White,RB,RB38,WAS,108.4,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s0,,16,8.556,0.522,0.105,-2.988,0.311,0.082,0.236,0.625,
+110,Jared Goff,QB,QB16,DET,109.5,2025,QB_pocket,,QB_pocket,QB_pocket,,16,17.614,0.984,0,,0.044,0,0.015,0,
+111,Matthew Golden,WR,WR49,GB,110.4,2025,WR_WR3_rotational,WR_WR2_s0,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,13,5.246,0.496,0.294,13.283,0.023,0.11,0.017,0.154,
+112,Kyler Murray,QB,QB17,MIN,110.9,2025,QB_rushing,,QB_rushing,QB_rushing,,5,15.556,0.988,0,,0.245,0,0.157,0,
+113,Jordan Love,QB,QB18,GB,112.1,2025,QB_pocket,,QB_pocket,QB_pocket,,15,15.676,0.943,0,,0.112,0,0.083,0,
+114,George Kittle,TE,TE9,SF,113.5,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,10,15.36,0.798,0.442,7.13,0.003,0.21,0.012,1.3,
+115,Wan'Dale Robinson,WR,WR50,TEN,113.9,2025,WR_alpha_possession,,WR_alpha_possession_s1,WR_alpha_possession_s1,,16,13.619,0.908,0.653,8.757,0.006,0.303,0,0.875,
+116,Jordan Mason,RB,RB39,MIN,115.2,2025,RB_committee_early_down,,RB_committee_early_down_s1,RB_committee_early_down_s1,goalline,15,7.967,0.429,0.045,-3.157,0.421,0.037,0.481,0.067,
+117,Romeo Doubs,WR,WR51,NE,117.2,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,16,10.338,0.776,0.479,13.247,0,0.189,0,1.125,
+118,Baker Mayfield,QB,QB19,TB,118.3,2025,QB_pocket,,QB_pocket,QB_pocket,,16,16.169,0.969,0,,0.115,0,0.082,0,
+119,KC Concepcion,WR,WR52,CLE,118.7,,,WR_WR2_s0,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+120,Aaron Jones,RB,RB40,MIN,119.9,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s1,goalline,12,9.892,0.551,0.203,-1.319,0.462,0.141,0.417,0.417,
+121,Travis Kelce,TE,TE10,KC,121,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,16,11.812,0.82,0.425,6.917,0.002,0.2,0.007,0.812,
+122,Jacory Croskey-Merritt,RB,RB41,WAS,122.1,2025,RB_committee_early_down,,RB_committee_early_down_s0,RB_committee_early_down_s0,,16,8.588,0.397,0.044,-1.45,0.373,0.032,0.352,0.062,
+123,Tyler Shough,QB,QB20,NO,123.5,2025,QB_pocket,,QB_pocket,QB_pocket,,10,13.62,0.818,0,,0.164,0,0.299,0,
+124,Jayden Higgins,WR,WR53,HOU,123.8,2025,WR_WR3_rotational,WR_WR2_s0,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,16,7.45,0.558,0.302,11.572,0,0.12,0,0.5,
+125,Mark Andrews,TE,TE11,BAL,125.6,2025,TE_TE1,,TE_TE1_s0,TE_TE1_s0,,16,7.975,0.619,0.374,7.628,0.02,0.17,0.031,0.938,
+126,Khalil Shakir,WR,WR54,BUF,126.9,2025,WR_WR3_high_volume,,WR_WR3_high_volume,WR_WR3_high_volume,,16,10.4,0.598,0.377,3.818,0.002,0.211,0,0.938,
+127,Chris Rodriguez,RB,RB42,JAX,127.1,2025,RB_committee_early_down,,RB_committee_early_down_s0,RB_committee_early_down_s0,goalline,11,6.973,0.329,0.017,5,0.305,0.01,0.4,0.091,
+128,Dalton Kincaid,TE,TE12,BUF,128,2025,TE_TE1,,TE_TE1_s0,TE_TE1_s0,,11,10.755,0.396,0.378,11.003,0,0.153,0,0.818,
+129,Jake Ferguson,TE,TE13,DAL,129.5,2025,TE_TE1_receiving,TE_TE1_s0,TE_TE1_receiving,TE_TE1_receiving,,16,11.662,0.671,0.321,6.441,0.002,0.17,0,1.5,
+130,Isaiah Likely,TE,TE14,NYG,130,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,10,5.65,0.598,0.29,7.492,0,0.132,0,0.6,
+131,Jalen Coker,WR,WR55,CAR,131.2,2025,WR_WR3_rotational,WR_WR2_s0,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,10,7.37,0.671,0.358,9.95,0,0.146,0,0.4,
+132,Rashid Shaheed,WR,WR56,SEA,131.3,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,17,9.141,0.616,0.419,10.745,0.018,0.169,0.007,0.529,
+133,Malik Willis,QB,QB21,MIA,133.7,2025,QB_backup,,QB_backup,QB_backup,,4,12.795,0.422,0,,0.212,0,0.233,0,
+134,Tyrone Tracy,RB,RB43,NYG,134,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s0,,14,9.493,0.534,0.141,-0.028,0.385,0.095,0.212,0.214,
+135,Stefon Diggs,WR,WR57,NE,134.2,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,16,12.688,0.542,0.48,8.08,0,0.223,0,0.75,
+136,Dallas Goedert,TE,TE15,PHI,135,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,15,12.34,0.846,0.418,7.097,0,0.208,0,1,
+137,Keaton Mitchell,RB,RB44,LAC,137,2025,RB_backup,,RB_backup,RB_backup,,11,5.018,0.191,0.062,-2.262,0.163,0.05,0.232,0,
+138,Cam Ward,QB,QB22,TEN,139.6,2025,QB_pocket,,QB_pocket,QB_pocket,,16,11.092,1,0,,0.099,0,0.196,0,
+139,Chig Okonkwo,TE,TE16,WAS,140.4,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,16,7.613,0.627,0.284,5.275,0,0.15,0,0.312,
+140,Sam Darnold,QB,QB23,SEA,140.9,2025,QB_pocket,,QB_pocket,QB_pocket,,16,14.162,0.959,0,,0.064,0,0.035,0,
+141,C.J. Stroud,QB,QB24,HOU,142.4,2025,QB_pocket,,QB_pocket,QB_pocket,,13,14.714,0.932,0,,0.129,0,0.147,0,
+142,Travis Hunter,WR,WR58,JAX,142.8,2025,WR_WR3_high_volume,,WR_WR3_high_volume,WR_WR3_high_volume,,7,9.114,0.663,0.387,8.549,0.008,0.175,0.048,0.714,
+143,Woody Marks,RB,RB45,HOU,143.1,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s2,goalline,15,9.22,0.519,0.11,1.27,0.449,0.066,0.513,0.467,
+144,Omar Cooper Jr.,WR,WR59,NYJ,143.8,,,WR_WR2_s0,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+145,Jalen McMillan,WR,WR60,TB,145.1,2024,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,12,9.7,0.693,0.335,12.065,0.009,0.129,0,0.667,
+146,Daniel Jones,QB,QB25,IND,146.3,2025,QB_pocket,,QB_pocket,QB_pocket,,13,17.418,0.915,0,,0.125,0,0.147,0,
+147,Jalen Nailor,WR,WR61,LV,147.2,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,16,5.8,0.648,0.296,12.589,0.005,0.118,0,0.812,
+148,Isiah Pacheco,RB,RB46,DET,148.7,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s0,,13,6.715,0.517,0.098,-1.354,0.363,0.068,0.356,0.308,
+149,Oronde Gadsden,TE,TE17,LAC,149.1,2025,TE_TE1,,TE_TE1_s0,TE_TE1_s0,,14,9.079,0.638,0.349,9.044,0,0.151,0,1.071,
+150,Brenton Strange,TE,TE18,JAX,150.7,2025,TE_TE1,,TE_TE1_s0,TE_TE1_s0,,11,9.164,0.76,0.318,6.978,0,0.153,0,0.818,
+151,Hunter Henry,TE,TE19,NE,151.5,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,16,10.512,0.808,0.364,7.854,0,0.169,0,1.312,
+152,Jauan Jennings,WR,WR62,MIN,152.2,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,14,11.843,0.816,0.474,10.529,0,0.198,0,1.571,
+153,Tre Tucker,WR,WR63,LV,153.3,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,16,9.769,0.946,0.457,8.788,0.025,0.187,0.012,0.562,
+154,Tyjae Spears,RB,RB47,TEN,153.8,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,12,8.5,0.459,0.153,-2.048,0.256,0.115,0.275,0.583,
+155,Denzel Boston,WR,WR64,CLE,154.5,,,WR_WR3_high_volume,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+156,Jonah Coleman,RB,RB48,DEN,156.3,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+157,Juwan Johnson,TE,TE20,NO,156.3,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,16,10.8,0.75,0.371,6.997,0,0.179,0,0.5,
+158,Bryce Young,QB,QB26,CAR,158.3,2025,QB_pocket,,QB_pocket,QB_pocket,,15,13.433,0.965,0,,0.135,0,0.22,0,
+159,Zach Charbonnet,RB,RB49,SEA,159.5,2025,RB_committee_early_down,,RB_committee_early_down_s1,RB_committee_early_down_s1,goalline,15,10.847,0.478,0.074,1.842,0.385,0.045,0.543,0.133,
+160,Ryan Flournoy,WR,WR65,DAL,160.2,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,12,8.517,0.491,0.246,7.945,0.013,0.113,0,0.583,
+161,Kenyon Sadiq,TE,TE21,NYJ,161.1,,,TE_TE1,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+162,Tyler Allgeier,RB,RB50,ARI,162.6,2025,RB_backup,,RB_backup,RB_backup,,16,7.506,0.298,0.04,-1.944,0.278,0.03,0.363,0.062,
+163,Tank Bigsby,RB,RB51,PHI,163.4,2025,RB_backup,,RB_backup,RB_backup,,10,3.62,0.154,0.02,-2.333,0.131,0.014,0.216,0.1,
+164,Deebo Samuel,WR,WR66,WAS,164.9,2025,WR_possession_WR2,,WR_possession_WR2,WR_possession_WR2,,15,12.273,0.723,0.474,5.08,0.039,0.253,0.04,0.867,
+165,Tre' Harris,WR,WR67,LAC,166.3,,,WR_WR3_rotational_s1,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+166,Isaac TeSlaa,WR,WR68,DET,166.8,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,13,5.623,0.418,0.176,14.123,0,0.059,0,0.846,
+167,T.J. Hockenson,TE,TE22,MIN,168.3,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,15,7.52,0.779,0.311,4.702,0.003,0.159,0.033,0.733,
+168,Dalton Schultz,TE,TE23,HOU,168.4,2025,TE_alpha,,TE_alpha_s0,TE_alpha_s0,,16,10.4,0.72,0.395,6.313,0,0.194,0,0.75,
+169,Brian Robinson,RB,RB52,ATL,171,2025,RB_backup,,RB_backup,RB_backup,,15,4.107,0.177,0.035,-0.292,0.196,0.024,0.136,0.267,
+170,Alvin Kamara,RB,RB53,NO,171.7,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s1,goalline,11,9.155,0.637,0.18,1.191,0.472,0.117,0.449,0.455,
+171,Adonai Mitchell,WR,WR69,NYJ,171.8,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,15,5.86,0.505,0.438,13.861,0.002,0.155,0,0.533,
+172,Dylan Sampson,RB,RB54,CLE,172.3,2025,RB_backup,,RB_backup,RB_backup,,14,5.8,0.248,0.11,-1.122,0.163,0.083,0.123,0.429,
+173,De'Zhaun Stribling,WR,WR70,SF,173.4,,,WR_WR3_rotational_s1,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+174,Fernando Mendoza,QB,QB27,LV,174.1,,,QB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+175,AJ Barner,TE,TE24,SEA,174.2,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,16,8.994,0.783,0.264,5.461,0.02,0.139,0.033,0.812,
+176,Antonio Williams,WR,WR71,WAS,175.7,,,WR_WR3_rotational_s1,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+177,Aaron Rodgers,QB,QB28,PIT,176.5,2025,QB_pocket,,QB_pocket,QB_pocket,,15,13.955,0.954,0.001,-9,0.057,0.002,0.028,0,
+178,Greg Dulcich,TE,TE25,MIA,177.6,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,8,7.088,0.428,0.293,5.427,0.004,0.153,0.125,0.875,
+179,Jerry Jeudy,WR,WR72,CLE,179.8,2025,WR_WR2,,WR_WR2_s1,WR_WR2_s1,,16,7.281,0.843,0.545,12.481,0,0.2,0,0.562,
+180,Gunnar Helm,TE,TE26,TEN,180.8,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,16,5.731,0.526,0.216,5.938,0,0.107,0,0.5,
+181,Zachariah Branch,WR,WR73,ATL,181,,,WR_WR3_high_volume,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+182,Malik Washington,WR,WR74,MIA,183.7,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,16,6.556,0.562,0.291,5.61,0.045,0.143,0.036,0.625,
+183,Sean Tucker,RB,RB55,TB,184.5,2025,RB_backup,,RB_backup,RB_backup,,13,7.062,0.201,0.036,-0.667,0.224,0.025,0.296,0.231,
+184,Geno Smith,QB,QB29,NYJ,184.7,2025,QB_pocket,,QB_pocket,QB_pocket,,15,11.593,0.965,0,,0.139,0,0.182,0,
+185,Germie Bernard,WR,WR75,PIT,186,,,WR_WR3_high_volume,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+186,Cade Otton,TE,TE27,TB,186.7,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,14,7.129,0.934,0.306,5.331,0,0.157,0,0.357,
+187,Terrance Ferguson,TE,TE28,LAR,188.2,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,11,4.736,0.435,0.179,17.425,0.004,0.065,0.018,0.273,
+188,Calvin Ridley,WR,WR76,TEN,188.6,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,7,6.757,0.571,0.423,11.901,0,0.168,0,0.286,
+189,Dontayvion Wicks,WR,WR77,PHI,190.1,2025,WR_WR3_rotational,WR_WR2,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,13,5.831,0.472,0.31,9.995,0.003,0.128,0,0.308,
+190,Emmett Johnson,RB,RB56,KC,191,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+191,Ray Davis,RB,RB57,BUF,191.5,2025,RB_backup,,RB_backup,RB_backup,,12,2.725,0.131,0.057,0.438,0.083,0.034,0.049,0.25,
+192,Pat Freiermuth,TE,TE29,PIT,192.4,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,14,7.536,0.514,0.257,4.954,0,0.113,0,0.571,
+193,Jaydon Blue,RB,RB58,DAL,193.5,2025,RB_backup,,RB_backup,RB_backup,,4,2,0.17,0.008,-5,0.195,0.008,0.036,0,
+194,MarShawn Lloyd,RB,RB59,GB,195.7,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+195,Jacoby Brissett,QB,QB30,ARI,197.2,2025,QB_pocket,,QB_pocket,QB_pocket,,13,16.294,0.846,0,,0.127,0,0.067,0,
+196,Tank Dell,WR,WR78,HOU,197.8,2024,WR_WR2,WR_WR3_rotational,WR_WR2_s0,WR_WR2_s0,,14,10,0.689,0.458,12.769,0.025,0.183,0.007,0.643,
+197,Mike Washington Jr.,RB,RB60,LV,199.5,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+198,Darnell Mooney,WR,WR79,NYG,199.9,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,14,5.521,0.819,0.425,14.806,0,0.157,0,0.429,
+199,Ted Hurst,WR,WR80,UNK,201,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+200,Kaytron Allen,RB,RB61,WAS,202.2,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+201,Pat Bryant,WR,WR81,DEN,204.5,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,11,6.155,0.514,0.252,8.679,0,0.11,0,0.636,
+202,Mike Gesicki,TE,TE30,CIN,204.7,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,11,6.127,0.418,0.26,10.615,0,0.108,0,0.636,
+203,Cooper Kupp,WR,WR82,SEA,204.8,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,15,7.427,0.755,0.343,8.256,0,0.163,0,0.8,
+204,Braelon Allen,RB,RB62,NYJ,205.5,2025,RB_backup,,RB_backup,RB_backup,goalline,4,3.825,0.232,0.048,2,0.163,0.026,0.441,0.5,
+205,Elijah Sarratt,WR,WR83,BAL,205.6,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+206,QB_backup.,QB,QB31,ATL,207,2025,QB_pocket,,QB_pocket,QB_pocket,,14,11.479,0.954,0,,0.06,0,0.036,0,
+207,Jaylin Noel,WR,WR84,HOU,207.9,2025,WR_depth,,WR_depth,WR_depth,,13,5.085,0.281,0.164,4.66,0.015,0.076,0.085,0.385,
+208,Keon Coleman,WR,WR85,BUF,208.4,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,11,8.5,0.646,0.413,9.707,0,0.169,0,0.818,
+209,Nicholas Singleton,RB,RB63,TEN,209.2,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+210,Eli Stowers,TE,TE31,PHI,209.3,,,TE_TE2_rotational_s2,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+211,Rashod Bateman,WR,WR86,BAL,209.3,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,13,4.262,0.693,0.301,12.3,0,0.119,0,0.692,
+212,Colby Parkinson,TE,TE32,LAR,210.4,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,13,8.477,0.608,0.192,3.466,0,0.111,0,1.538,
+213,Jordan James,RB,RB64,SF,211,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+214,George Holani,RB,RB65,SEA,212.1,2025,RB_backup,,RB_backup,RB_backup,,4,3.7,0.152,0.036,-0.5,0.159,0.025,0.14,0,
+215,Tyquan Thornton,WR,WR87,KC,212.1,2025,WR_deep_threat,,WR_deep_threat,WR_deep_threat_s1,,11,7.345,0.444,0.357,30.012,0,0.098,0,0.364,
+216,Kayshon Boutte,WR,WR88,NE,212.2,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,13,9.208,0.682,0.317,17.42,0,0.114,0,0.308,
+217,David Njoku,TE,TE33,LAC,212.4,2025,TE_TE1,TE_TE2_rotational,TE_TE1_s1,TE_TE1_s1,,11,7.845,0.653,0.251,3.991,0,0.125,0,0.818,
+218,Evan Engram,TE,TE34,DEN,212.8,2025,TE_TE1,TE_TE2_rotational,TE_TE1_s1,TE_TE1_s1,,15,6.353,0.423,0.258,4.131,0.003,0.134,0,0.733,
+219,Troy Franklin,WR,WR89,DEN,212.9,2025,WR_WR2,WR_WR3_rotational,WR_WR2_s0,WR_WR2_s0,,16,11.069,0.607,0.481,11.131,0.012,0.191,0,1.25,
+220,Keenan Allen,WR,WR90,LAC,213.1,2025,WR_WR2_featured,WR_WR3_rotational,WR_WR2_featured,WR_WR2_featured,,16,10.756,0.556,0.475,8.298,0,0.213,0,1,
+221,Chris Brazzell II,WR,WR91,UNK,213.4,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+222,Brandon Aiyuk,WR,WR92,SF,213.6,2024,WR_WR2_featured,,WR_WR2_featured,WR_WR2_featured,,7,8.914,0.761,0.52,12.248,0,0.222,0,0.857,
+223,Justice Hill,RB,RB66,BAL,213.6,2025,RB_passing_down,,RB_passing_down,RB_passing_down,,9,7.244,0.384,0.162,-0.406,0.077,0.111,0.077,0.111,
+224,Demond Claiborne,RB,RB67,MIN,213.8,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+225,Christian Kirk,WR,WR93,HOU,213.9,2025,WR_WR3_high_volume,WR_WR3_rotational,WR_WR3_high_volume,WR_WR3_high_volume,,10,5.72,0.502,0.32,7.306,0,0.153,0,0.7,
+226,Malachi Fields,WR,WR94,NYG,213.9,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+227,Shedeur Sanders,QB,QB32,CLE,213.9,2025,QB_pocket,,QB_pocket,QB_pocket,,7,11.409,0.904,0,,0.108,0,0.071,0,
+228,Kimani Vidal,RB,RB68,LAC,214.2,2025,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s2,goalline,11,10.536,0.623,0.087,-0.652,0.455,0.062,0.404,0.545,
+229,Chris Bell,WR,WR95,MIA,214.3,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+230,Kaelon Black,RB,RB69,SF,214.4,,,RB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+231,Darnell Washington,TE,TE35,PIT,214.6,2025,TE_TE1,TE_TE2_rotational,TE_TE1_s1,TE_TE1_s1,,13,5.646,0.605,0.251,6.159,0,0.112,0,0.692,
+232,Tyreek Hill,WR,WR96,MIA,214.6,2025,WR_alpha_deep,,WR_alpha_deep_s1,WR_alpha_deep_s1,,4,13.375,0.685,0.688,13.414,0,0.239,0,0.5,
+233,Michael Penix,QB,QB33,ATL,214.8,2025,QB_pocket,QB_backup,QB_pocket,QB_pocket,,9,13.364,0.932,0,,0.088,0,0.056,0,
+234,Deshaun Watson,QB,QB34,CLE,214.9,2024,QB_pocket,,QB_pocket,QB_pocket,,7,10.96,0.889,0,,0.201,0,0.224,0,
+235,Devaughn Vele,WR,WR98,NO,214.9,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,9,7.367,0.62,0.326,10.245,0,0.133,0,0.556,
+236,Michael Mayer,TE,TE36,LV,214.9,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,11,6.009,0.626,0.314,4.479,0,0.145,0,0.455,
+237,Samaje Perine,RB,RB70,CIN,214.9,2025,RB_backup,,RB_backup,RB_backup,,13,5.362,0.345,0.052,-2.033,0.248,0.04,0.159,0.077,
+238,Tory Horton,WR,WR97,SEA,214.9,2025,WR_WR3_rotational,,WR_WR3_rotational,WR_WR3_rotational_s2,,7,9.3,0.473,0.316,18.952,0,0.121,0,0.571,
+239,Andrei Iosivas,WR,WR99,CIN,215,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,14,6.207,0.796,0.251,11.926,0.013,0.104,0,0.429,
+240,Kirk Cousins,QB,QB35,LV,215.1,2025,QB_pocket,,QB_pocket,QB_pocket,,9,10.482,0.846,0,,0.043,0,0.022,0,
+241,Ja'Kobi Lane,WR,WR100,UNK,215.2,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+242,Jack Bech,WR,WR101,LV,215.2,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,11,3.855,0.5,0.232,7.203,0,0.095,0,0.364,
+243,James Conner,RB,RB71,ARI,215.2,2024,RB_workhorse_early_down,,RB_workhorse_early_down,RB_workhorse_early_down,,16,15.862,0.606,0.147,-2.19,0.539,0.115,0.675,0.312,
+244,DJ Giddens,RB,RB72,IND,215.3,2025,RB_backup,,RB_backup,RB_backup,,4,1.65,0.15,0.02,-3,0.134,0.016,0.033,0.25,
+245,Jalen Tolbert,WR,WR102,DAL,215.3,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,10,4.63,0.594,0.223,12.588,0,0.087,0,0.5,
+246,Charlie Kolar,TE,TE38,BAL,215.4,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,11,3.291,0.394,0.112,6.758,0,0.054,0,0.273,
+247,Darius Slayton,WR,WR104,NYG,215.4,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,13,6.877,0.808,0.394,14.482,0,0.145,0,0.385,
+248,Jake Tonges,TE,TE37,SF,215.4,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,9,10.367,0.571,0.264,5.272,0,0.135,0,0.778,
+249,Skyler Bell,WR,WR103,BUF,215.4,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+250,Caleb Douglas,WR,WR105,UNK,215.6,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+251,Theo Johnson,TE,TE39,NYG,215.6,2025,TE_TE1,,TE_TE1_s0,TE_TE1_s0,,15,8.52,0.867,0.375,7.731,0,0.172,0,0.933,
+252,Zavion Thomas,WR,WR106,UNK,215.6,,,WR_WR3_rotational,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+253,Carson Beck,QB,QB36,UNK,215.7,,,QB_backup,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+254,Chimere Dike,WR,WR107,TEN,215.7,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,16,7.65,0.585,0.315,8.353,0.034,0.14,0.023,0.875,
+255,Emanuel Wilson,RB,RB73,SEA,215.7,2025,RB_backup,,RB_backup,RB_backup,,15,5.913,0.311,0.049,-1.843,0.236,0.036,0.213,0.2,
+256,Ja'Tavion Sanders,TE,TE40,CAR,215.7,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,11,4.909,0.525,0.191,4.641,0,0.1,0,0.909,
+257,Jaylen Wright,RB,RB75,MIA,215.7,2025,RB_backup,,RB_backup,RB_backup,,8,5.525,0.191,0.034,-2.958,0.208,0.036,0.179,0,
+258,LeQuint Allen,RB,RB74,JAX,215.7,2025,RB_backup,,RB_backup,RB_backup,,14,1.771,0.229,0.033,-1.056,0.051,0.024,0.043,0.143,
+259,Adam Randall,RB,RB77,BAL,215.8,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+260,Dawson Knox,TE,TE41,BUF,215.8,2025,TE_TE1,,TE_TE1_s1,TE_TE1_s1,,15,6.22,0.622,0.257,8.876,0,0.113,0,0.8,
+261,Devontez Walker,WR,WR108,BAL,215.8,2025,WR_deep_threat,,WR_deep_threat,WR_deep_threat_s1,,4,6.25,0.258,0.182,29.125,0,0.056,0,0.25,
+262,Eli Raridon,TE,TE42,UNK,215.8,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+263,Hollywood Brown,WR,WR110,PHI,215.8,,,WR_WR3_rotational_s0,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+264,Jahan Dotson,WR,WR109,PHI,215.8,2025,WR_depth,,WR_depth,WR_depth,,13,3.323,0.552,0.209,14.282,0,0.078,0,0.231,
+265,Ollie Gordon,RB,RB78,MIA,215.8,2025,RB_backup,,RB_backup,RB_backup,,15,3.467,0.22,0.023,-2.214,0.159,0.018,0.213,0.133,
+266,Ty Johnson,RB,RB76,BUF,215.8,2025,RB_backup,,RB_backup,RB_backup,,16,5.044,0.294,0.086,-1.418,0.074,0.068,0.148,0.188,
+267,Brashard Smith,RB,RB85,KC,215.9,2025,RB_backup,,RB_backup,RB_backup,,14,3.964,0.151,0.092,-1.102,0.073,0.07,0.093,0.5,
+268,Brenen Thompson,WR,WR111,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+269,Bryce Lance,WR,WR125,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+270,Chris Brooks,RB,RB79,GB,215.9,2025,RB_backup,,RB_backup,RB_backup,,13,2.046,0.208,0.072,0.625,0.033,0.047,0.022,0.231,
+271,Chris Myarick,TE,TE47,UNK,215.9,2022,TE_depth,,TE_depth,TE_depth,,7,2.786,0.373,0.074,2.429,0,0.045,0,0.286, | Team not found in lookup
+272,Cole Kmet,TE,TE48,CHI,215.9,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,15,4.873,0.703,0.215,9.482,0,0.095,0,0.4,
+273,Elic Ayomanor,WR,WR120,TEN,215.9,2025,WR_WR2,,WR_WR2_s0,WR_WR2_s0,,15,7.233,0.797,0.463,12.579,0,0.177,0,0.533,
+274,Elijah Arroyo,TE,TE46,SEA,215.9,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,13,2.838,0.395,0.177,8.596,0,0.079,0,0.385,
+275,Emari Demercado,RB,RB82,KC,215.9,2025,RB_backup,,RB_backup,RB_backup,,10,5.16,0.278,0.071,-0.731,0.2,0.048,0.162,0.4,
+276,Erick All,TE,TE43,UNK,215.9,2024,TE_TE2_rotational,,F,TE_TE2_rotational_s2,,8,4.475,0.441,0.157,3.438,0,0.086,0,0.25, | Team not found in lookup
+277,Erik Ezukanma,WR,WR123,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+278,Feleipe Franks,TE,TE47,ATL,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+279,Isaiah Bond,WR,WR116,CLE,215.9,2025,WR_WR3_rotational,,WR_WR3_rotational,WR_WR3_rotational_s2,,14,3.714,0.479,0.287,17.371,0.011,0.093,0,0.286,
+280,Isaiah Spiller,RB,RB86,UNK,215.9,2023,RB_backup,,RB_backup,RB_backup,,9,2.111,0.184,0.031,-0.5,0.165,0.022,0.176,0.222, | Team not found in lookup
+281,J'Mari Taylor,RB,RB82,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+282,J.J. McCarthy,QB,QB37,MIN,215.9,2025,QB_pocket,,QB_pocket,QB_pocket,,9,13.044,0.947,0,,0.157,0,0.154,0,
+283,Joshua Cephus,WR,WR122,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+284,Justin Fields,QB,QB38,NYJ,215.9,2025,QB_rushing,,QB_rushing,QB_rushing,,9,15.851,0.898,0.009,6,0.271,0.004,0.242,0.111,
+285,Justin Joly,TE,TE47,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+286,KaVontae Turpin,WR,WR112,DAL,215.9,2025,WR_depth,,WR_depth,WR_depth,,14,5.986,0.369,0.154,8.41,0.046,0.071,0,0.357,
+287,Kalif Raymond,WR,WR113,DET,215.9,2025,WR_depth,,WR_depth,WR_depth,,11,5.327,0.417,0.155,7.338,0.006,0.074,0,0.182,
+288,Kendrick Bourne,WR,WR116,SF,215.9,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,13,7.085,0.632,0.278,12.59,0,0.113,0,0.154,
+289,Kyle Williams,WR,WR119,NE,215.9,2025,WR_deep_threat,,WR_deep_threat_s0,WR_deep_threat_s0,,12,4.058,0.343,0.164,17.897,0.003,0.059,0,0,
+290,Malik Davis,RB,RB80,DAL,215.9,2025,RB_backup,,RB_backup,RB_backup,,9,4.511,0.229,0.028,3.417,0.185,0.016,0.134,0,
+291,Marvin Mims Jr.,WR,WR120,DEN,215.9,2025,WR_depth,,WR_depth,WR_depth,,14,6.571,0.372,0.24,8.94,0.033,0.097,0.019,0.143,
+292,Mason Taylor,TE,TE45,NYJ,215.9,2025,TE_TE1_receiving,,TE_TE1_receiving,TE_TE1_receiving,,13,6.838,0.811,0.355,6.264,0,0.172,0,0.692,
+293,Mike White,QB,QB41,UNK,215.9,2023,QB_backup,,QB_backup,QB_backup,,6,0.343,0.132,0,,0.042,0,0,0, | Team not found in lookup
+294,Miles Boykin,WR,WR120,UNK,215.9,2023,WR_depth,,WR_depth,WR_depth,,4,1.175,0.158,0.069,4.75,0,0.035,0,0.25, | Team not found in lookup
+295,Najee Harris,RB,RB81,LAC,215.9,2024,RB_committee_featured,,RB_committee_featured,RB_committee_featured_s2,goalline,16,11.812,0.501,0.127,-1.626,0.489,0.094,0.524,0.25,
+296,Olamide Zaccheaus,WR,WR123,CHI,215.9,2025,WR_WR3_high_volume,,WR_WR3_high_volume,WR_WR3_high_volume,,14,6.057,0.596,0.301,7.187,0.01,0.147,0,0.929,
+297,Oscar Delp,TE,TE43,UNK,215.9,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+298,Rashaad Penny,RB,RB83,UNK,215.9,2022,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,5,10.44,0.552,0.041,-2.222,0.517,0.034,0.35,0.2, | Team not found in lookup
+299,Savion Williams,WR,WR114,GB,215.9,2025,WR_depth,,WR_depth,WR_depth,,11,2.318,0.119,0.046,3.667,0.031,0.029,0.011,0.364,
+300,Tahj Brooks,RB,RB82,CIN,215.9,2025,RB_backup,,RB_backup,RB_backup,,6,1.067,0.118,0.013,-2.5,0.113,0.01,0,0,
+301,Tez Johnson,WR,WR120,TB,215.9,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,14,6.371,0.496,0.24,12.387,0.013,0.095,0.044,0.5,
+302,Treylon Burks,WR,WR116,WAS,215.9,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,7,3.686,0.59,0.273,13.764,0,0.113,0,0.429,
+303,Tyler Badie,RB,RB86,DEN,215.9,2025,RB_backup,,RB_backup,RB_backup,,13,2.369,0.192,0.082,-2.267,0.016,0.059,0.01,0.308,
+304,Xavier Legette,WR,WR123,CAR,215.9,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,14,6.007,0.705,0.355,10.845,0.004,0.144,0,0.857,
+305,A.T. Perry,WR,WR155,UNK,216,2023,WR_depth,,WR_depth,WR_depth,,7,5.757,0.613,0.207,19.619,0,0.065,0,0.286, | Team not found in lookup
+306,AJ Dillon,RB,RB103,PHI,216,2025,RB_backup,,RB_backup,RB_backup,,5,1.56,0.146,0.023,4.5,0.099,0.012,0.233,0,
+307,Aaron Shampklin,RB,RB93,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+308,Adam Trautman,TE,TE62,DEN,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,11,4.136,0.623,0.113,4.295,0,0.056,0,0.091,
+309,Aidan O'Connell,QB,QB51,UNK,216,2024,QB_pocket,,QB_pocket,QB_pocket,,8,9.702,0.676,0,,0.077,0,0.028,0, | Team not found in lookup
+310,Alexander Mattison,RB,RB97,UNK,216,2024,RB_committee_early_down,,RB_committee_early_down_s1,RB_committee_early_down_s1,goalline,13,10.023,0.472,0.143,-0.395,0.414,0.097,0.411,0.077, | Team not found in lookup
+311,Ameer Abdullah,RB,RB105,IND,216,2025,RB_backup,,RB_backup,RB_backup,,11,3.036,0.112,0.067,0.35,0.049,0.046,0.028,0.091,
+312,Andy Dalton,QB,QB48,CAR,216,2025,QB_backup,,QB_backup,QB_backup,,4,2.38,0.38,0,,0.04,0,0,0,
+313,Anthony Richardson,QB,QB40,IND,216,2024,QB_rushing,,QB_rushing,QB_rushing,,11,14.851,0.925,0.002,-8,0.261,0.003,0.248,0,
+314,Anthony Tyus,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+315,Antonio Gibson,RB,RB89,NE,216,2025,RB_backup,,RB_backup,RB_backup,,5,4.64,0.166,0.024,-2,0.19,0.02,0.111,0,
+316,Arian Smith,WR,WR156,NYJ,216,2025,WR_depth,,WR_depth,WR_depth,,11,1.209,0.46,0.134,14.741,0.011,0.045,0,0,
+317,Ashton Dulin,WR,WR137,IND,216,2025,WR_depth,,WR_depth,WR_depth,,6,3.333,0.278,0.113,5.85,0.016,0.043,0.053,0.167,
+318,Audric Estime,RB,RB95,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+319,Austin Ekeler,RB,RB97,WAS,216,2024,RB_passing_down,,RB_passing_down,RB_passing_down,,11,11.555,0.52,0.17,-1.625,0.246,0.127,0.218,0.273,
+320,Austin Hooper,TE,TE60,NE,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,12,4.817,0.528,0.161,8.285,0,0.073,0,0.333,
+321,Austin Reed,QB,QB40,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+322,Bam Knight,RB,RB106,ARI,216,2025,RB_committee_early_down,,RB_committee_early_down_s1,RB_committee_early_down_s1,goalline,10,9.29,,0.122,1.109,0.383,0.076,0.433,0.6,
+323,Barion Brown,WR,WR155,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+324,Ben Sims,TE,TE64,MIN,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,4,2.05,0.345,0.101,7.125,0,0.046,0,0.5,
+325,Ben Sinnott,TE,TE54,WAS,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,7,3.729,0.394,0.165,8.25,0,0.072,0,0.143,
+326,Ben Skowronek,WR,WR150,PIT,216,2025,WR_depth,,WR_depth,WR_depth,,6,2.817,0.218,0.105,10.167,0,0.037,0,0.167,
+327,Ben Yurosek,TE,TE52,MIN,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+328,Benny Snell,RB,RB84,UNK,216,2021,RB_backup,,RB_backup,RB_backup,,12,0.908,0.093,0.014,-1,0.087,0.01,0.021,0, | Team not found in lookup
+329,Brady Cook,QB,QB50,NYJ,216,2025,QB_pocket,,QB_pocket,QB_pocket,,4,4.84,0.975,0,,0.092,0,0,0,
+330,Brandin Cooks,WR,WR155,NO,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,13,3.992,0.563,0.264,14.058,0,0.088,0,0.077,
+331,Brenden Rice,WR,WR136,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+332,Brevin Jordan,TE,TE71,UNK,216,2023,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,9,5.656,0.388,0.138,5.278,0,0.074,0,0.222, | Team not found in lookup
+333,Brevyn Spann-Ford,TE,TE62,DAL,216,2025,TE_depth,,TE_depth,TE_depth,,9,2.111,0.263,0.062,6.667,0,0.03,0,0.222,
+334,Brian Hill,RB,RB94,UNK,216,2020,RB_backup,,RB_backup,RB_backup,,16,5.962,0.29,0.08,1.381,0.245,0.05,0.124,0.062, | Team not found in lookup
+335,Brock Wright,TE,TE64,DET,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,7,5.257,0.636,0.161,0.478,0,0.1,0,0.286,
+336,Bryant Koback,RB,RB101,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+337,C.J. Uzomah,TE,TE50,UNK,216,2023,TE_depth,,TE_depth,TE_depth,,7,2.829,0.399,0.092,5.571,0,0.047,0,0.571, | Team not found in lookup
+338,CJ Daniels,WR,WR137,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+339,CJ Donaldson,RB,RB108,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+340,Cade Klubnik,QB,QB41,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+341,Cade Stover,TE,TE62,HOU,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,5,3.6,0.488,0.163,2.25,0.024,0.097,0.06,0.6,
+342,Caleb Lohner,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+343,Calvin Austin III,WR,WR148,PIT,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,13,5.515,0.538,0.367,9.744,0,0.129,0,0.231,
+344,Carson Wentz,QB,QB51,MIN,216,2025,QB_pocket,,QB_pocket,QB_pocket,,5,14.068,0.932,0,,0.094,0,0.073,0,
+345,Case Keenum,QB,QB51,UNK,216,2021,QB_backup,,QB_backup,QB_backup,,4,4.035,0.38,0,,0.048,0,0.158,0, | Team not found in lookup
+346,Casey Washington,WR,WR154,ATL,216,2025,WR_WR3_rotational,,WR_WR3_rotational,WR_WR3_rotational_s2,,5,3.08,0.504,0.254,18.8,0,0.082,0,0,
+347,Cedric Tillman,WR,WR137,CLE,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,11,5.155,0.65,0.278,12.575,0,0.106,0,0.364,
+348,Cedrick Wilson,WR,WR154,MIA,216,2025,WR_depth,,WR_depth,WR_depth,,5,1.88,0.386,0.124,7.1,0,0.058,0,0.4,
+349,Chris Herndon,TE,TE64,UNK,216,2021,TE_depth,,TE_depth,TE_depth,,5,2.8,0.212,0.068,3.6,0,0.037,0,0.2, | Team not found in lookup
+350,Chris Oladokun,QB,QB41,KC,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+351,Colbie Young,WR,WR137,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+352,Cole Beasley,WR,WR136,UNK,216,2022,WR_depth,,WR_depth,WR_depth,,4,2.375,0.108,0.086,3.688,0,0.046,0,0, | Team not found in lookup
+353,Cole Payton,QB,QB41,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+354,Connor Heyward,TE,TE54,PIT,216,2025,TE_depth,,TE_depth,TE_depth,,10,1.99,0.105,0.022,9,0.044,0.01,0.058,0.2,
+355,Curtis Samuel,WR,WR127,BUF,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,5,4.22,0.418,0.169,14.267,0,0.065,0,0.2,
+356,D'Onta Foreman,RB,RB87,UNK,216,2024,RB_backup,,RB_backup,RB_backup,,9,3.122,0.252,0.039,-0.2,0.27,0.026,0.331,0, | Team not found in lookup
+357,Dallen Bentley,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+358,Dallin Holker,TE,TE54,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+359,Dameon Pierce,RB,RB100,HOU,216,2024,RB_backup,,RB_backup,RB_backup,,8,2.488,0.13,0.011,-1.5,0.106,0.008,0.03,0,
+360,Damien Harris,RB,RB92,UNK,216,2023,RB_backup,,RB_backup,RB_backup,,6,3.167,0.153,0.013,0,0.142,0.009,0.25,0, | Team not found in lookup
+361,Damien Martinez,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+362,Daniel Bellinger,TE,TE54,NYG,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,11,4.345,0.494,0.156,10.023,0,0.069,0,0.545,
+363,Dante Pettis,WR,WR144,NO,216,2024,WR_depth,,WR_depth,WR_depth,,7,3.2,0.309,0.234,6.576,0,0.107,0,0.286,
+364,Dare Ogunbowale,RB,RB97,HOU,216,2025,RB_backup,,RB_backup,RB_backup,,8,2.775,0.16,0.083,1.536,0.041,0.045,0.091,0.375,
+365,Dareke Young,WR,WR140,SEA,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+366,Darius Cooper,WR,WR156,PHI,216,2025,WR_depth,,WR_depth,WR_depth,,4,2.975,0.28,0.129,7.125,0,0.06,0,0,
+367,Darren Waller,TE,TE49,MIA,216,2025,TE_alpha,,TE_alpha,TE_alpha_s1,,8,11.088,0.471,0.421,11.16,0.003,0.165,0,1,
+368,David Moore,WR,WR157,CAR,216,2024,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,13,5.938,0.606,0.319,10.452,0.002,0.135,0.01,0.769,
+369,Davis Allen,TE,TE50,LA,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,14,4.486,0.504,0.117,3.057,0,0.066,0,0.5,
+370,Davis Mills,QB,QB48,HOU,216,2025,QB_pocket,,QB_pocket,QB_pocket,,5,13.192,0.776,0,,0.093,0,0.087,0,
+371,DeAndre Hopkins,WR,WR146,BAL,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,16,4.188,0.335,0.258,16.096,0,0.098,0,0.188,
+372,DeMario Douglas,WR,WR137,NE,216,2025,WR_depth,,WR_depth,WR_depth,,15,6.06,0.266,0.208,10.438,0.017,0.094,0.008,0.467,
+373,Deion Burks,WR,WR137,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+374,Demarcus Robinson,WR,WR148,SF,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,13,4.062,0.436,0.2,14.643,0.002,0.07,0,0.308,
+375,Deneric Prince,RB,RB97,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+376,Dennis Houston,WR,WR151,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+377,Deontay Burnett,WR,WR127,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+378,Derek Carr,QB,QB44,UNK,216,2024,QB_pocket,,QB_pocket,QB_pocket,,10,15.09,0.944,0,,0.055,0,0.048,0, | Team not found in lookup
+379,Derius Davis,WR,WR137,LAC,216,2025,WR_depth,,WR_depth,WR_depth,,4,0.45,0.092,0.052,13.5,0.019,0.018,0,0,
+380,Devin Culp,TE,TE55,TB,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+381,Devin Duvernay,WR,WR141,CHI,216,2024,WR_depth,,WR_depth,WR_depth,,10,1.92,0.269,0.107,9.179,0.017,0.046,0.02,0.2,
+382,Devin Neal,RB,RB100,NO,216,2025,RB_backup,,RB_backup,RB_backup,,9,6.667,0.444,0.081,-1.415,0.235,0.061,0.111,0.111,
+383,Devin Singletary,RB,RB93,NYG,216,2025,RB_backup,,RB_backup,RB_backup,,16,6.138,0.274,0.06,0.042,0.226,0.043,0.159,0.125,
+384,Diego Pavia,QB,QB50,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+385,Dillon Bell,WR,WR155,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+386,Dillon Gabriel,QB,QB49,CLE,216,2025,QB_pocket,,QB_pocket,QB_pocket,,9,7.787,0.622,0,,0.054,0,0.071,0,
+387,Dont'e Thornton,WR,WR137,LV,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,10,2.35,0.6,0.337,14.192,0,0.106,0,0.2,
+388,Dontae Fleming,WR,WR156,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+389,Drew Allar,QB,QB48,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+390,Drew Lock,QB,QB51,SEA,216,2024,QB_pocket,,QB_pocket,QB_pocket,,6,12.053,0.703,0,,0.118,0,0.117,0,
+391,Drew Ogletree,TE,TE61,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+392,Drew Sample,TE,TE64,CIN,216,2025,TE_depth,,TE_depth,TE_depth,,10,2.72,0.552,0.078,-0.55,0.003,0.051,0,0.1,
+393,Durham Smythe,TE,TE50,CHI,216,2025,TE_depth,,TE_depth,TE_depth,,4,1.625,0.25,0.087,3,0,0.05,0,0,
+394,Dyami Brown,WR,WR137,JAX,216,2025,WR_WR3_rotational,,WR_WR3_rotational,WR_WR3_rotational_s2,,10,4.79,0.476,0.29,18.929,0.021,0.105,0.005,0.8,
+395,Dylan Laube,RB,RB107,LV,216,2025,RB_backup,,RB_backup,RB_backup,,4,1.425,0.118,0.041,-1.5,0.111,0.036,0,0,
+396,Efton Chism,WR,WR155,NE,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+397,Elijah Higgins,TE,TE51,ARI,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,14,3.736,0.438,0.136,3.539,0,0.073,0,0.357,
+398,Elijah Mitchell,RB,RB95,KC,216,2023,RB_backup,,RB_backup,RB_backup,,10,3.28,0.191,0.02,-5,0.184,0.019,0.093,0.2,
+399,Elijah Moore,WR,WR144,BUF,216,2025,WR_depth,,WR_depth,WR_depth,,9,3.178,0.314,0.169,9.469,0.021,0.068,0.012,0,
+400,Emory Jones,QB,QB44,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+401,Equanimeous St. Brown,WR,WR161,UNK,216,2023,WR_depth,,WR_depth,WR_depth,,4,2.1,0.445,0.098,7.5,0,0.048,0,0, | Team not found in lookup
+402,Eric Gray,RB,RB90,NYG,216,2024,RB_backup,,RB_backup,RB_backup,,9,1.922,0.143,0.043,-2.292,0.054,0.035,0.092,0.222,
+403,Eric Saubert,TE,TE52,SEA,216,2024,TE_depth,,TE_depth,TE_depth,,7,3,0.453,0.091,8,0,0.042,0,0.143,
+404,Foster Moreau,TE,TE51,NO,216,2025,TE_depth,,TE_depth,TE_depth,,7,1.843,0.366,0.077,0.262,0,0.047,0,0.143,
+405,Frank Darby,WR,WR146,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+406,Frank Gore,RB,RB103,UNK,216,2020,RB_workhorse_runner,,RB_workhorse_runner,RB_workhorse_runner,,15,6.68,0.409,0.069,1.708,0.501,0.042,0.429,0.133, | Team not found in lookup
+407,Gardner Minshew II,QB,QB48,KC,216,2025,QB_backup,,QB_backup,QB_backup,,4,-0.08,0.168,0,,0.051,0,0,0,
+408,Gary Brightwell,RB,RB92,CIN,216,2022,RB_backup,,RB_backup,RB_backup,,7,3.1,0.109,0.036,0.5,0.108,0.023,0.083,0.286,
+409,Grant Calcaterra,TE,TE52,PHI,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,7,1.786,0.43,0.116,7.143,0,0.058,0,0.143,
+410,Greg Dortch,WR,WR137,ARI,216,2025,WR_depth,,WR_depth,WR_depth,,12,6.258,0.336,0.11,0.788,0.026,0.068,0.067,0.583,
+411,Gunner Olszewski,WR,WR134,NYG,216,2025,WR_depth,,WR_depth,WR_depth,,4,4.405,0.178,0.087,13.333,0,0.032,0,0.5,
+412,Hakeem Butler,WR,WR158,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+413,Harrison Bryant,TE,TE48,HOU,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,4,0.675,0.302,0.108,12,0,0.046,0,0,
+414,Hendon Hooker,QB,QB52,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+415,Hunter Luepke,RB,RB107,DAL,216,2025,RB_backup,,RB_backup,RB_backup,,10,3.44,0.232,0.063,-0.407,0.041,0.042,0.05,0.3,
+416,Ian Thomas,TE,TE55,LV,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,7,3.486,0.419,0.106,4.214,0,0.056,0,0,
+417,Isaac Guerendo,RB,RB91,SF,216,2024,RB_backup,,RB_backup,RB_backup,,12,7.975,0.296,0.079,2.667,0.26,0.047,0.179,0,
+418,Isaiah Davis,RB,RB86,NYJ,216,2025,RB_backup,,RB_backup,RB_backup,,15,4.747,0.29,0.099,1.157,0.102,0.067,0.137,0.133,
+419,Isaiah Hodgins,WR,WR154,NYG,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,5,5.5,0.804,0.246,8.467,0,0.11,0,0.6,
+420,Isaiah Neyor,WR,WR143,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+421,Isaiah Williams,WR,WR148,NYJ,216,2025,WR_depth,,WR_depth,WR_depth,,8,6.663,0.576,0.217,2.725,0.012,0.125,0,0.125,
+422,Israel Abanikanda,RB,RB106,UNK,216,2023,RB_backup,,RB_backup,RB_backup,,5,3.54,0.214,0.094,-0.548,0.176,0.058,0,0, | Team not found in lookup
+423,J.Michael Sturdivant,WR,WR150,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+424,J.P. Holtz,TE,TE55,UNK,216,2019,TE_depth,,TE_depth,TE_depth,,5,3.22,0.36,0.085,0.9,0,0.049,0,0.2, | Team not found in lookup
+425,JP Richardson,WR,WR167,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+426,Ja'Lynn Polk,WR,WR154,UNK,216,2024,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,13,2.515,0.497,0.232,10.274,0.002,0.087,0.009,0.385, | Team not found in lookup
+427,Ja'Quinden Jackson,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+428,JaMycal Hasty,RB,RB89,UNK,216,2024,RB_backup,,RB_backup,RB_backup,,9,3.2,0.176,0.06,0.183,0.09,0.04,0,0.111, | Team not found in lookup
+429,Jack Endries,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+430,Jack Stoll,TE,TE55,NO,216,2025,TE_depth,,TE_depth,TE_depth,,8,2.075,0.221,0.065,1.688,0,0.039,0,0.125,
+431,Jackson Hawes,TE,TE64,BUF,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,12,4.308,0.477,0.125,7.042,0,0.058,0,0.25,
+432,Jacob Cowing,WR,WR148,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+433,Jacob Saylors,RB,RB106,DET,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+434,Jake Bobo,WR,WR154,SEA,216,2024,WR_depth,,WR_depth,WR_depth,,10,2.23,0.312,0.096,8.25,0,0.041,0,0.2,
+435,Jake Briningstool,TE,TE59,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+436,Jake Browning,QB,QB50,CIN,216,2025,QB_pocket,,QB_pocket,QB_pocket,,5,9.748,0.734,0,,0.111,0,0.25,0,
+437,Jalen Brooks,WR,WR141,ARI,216,2024,WR_depth,,WR_depth,WR_depth,,12,2.975,0.418,0.19,13.804,0,0.066,0,0.333,
+438,Jalen Milroe,QB,QB48,SEA,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+439,Jalen Reagor,WR,WR155,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,7,2.1,0.283,0.124,12.357,0.014,0.057,0.012,0, | Team not found in lookup
+440,Jalen Royals,WR,WR126,KC,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+441,Jalen White,RB,RB96,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+442,Jalin Hyatt,WR,WR155,NYG,216,2025,WR_deep_threat,,WR_deep_threat,WR_deep_threat_s1,,5,1.7,0.376,0.277,25.003,0,0.093,0,0.2,
+443,Jam Miller,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+444,Jameis Winston,QB,QB42,NYG,216,2024,QB_pocket,,QB_pocket,QB_pocket,,11,11.922,0.636,0,,0.097,0,0.119,0,
+445,James Mitchell,TE,TE50,CAR,216,2022,TE_depth,,TE_depth,TE_depth,,7,3.8,0.226,0.09,4.429,0,0.045,0,0.143,
+446,James Washington,WR,WR161,UNK,216,2021,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,15,4.387,0.456,0.223,11.024,0.004,0.078,0,0.533, | Team not found in lookup
+447,Jamison Crowder,WR,WR157,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,4,7.05,0.298,0.216,6.225,0,0.098,0,0.75, | Team not found in lookup
+448,Jaray Jenkins,WR,WR137,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+449,Jared Wiley,TE,TE69,KC,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+450,Jarquez Hunter,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+451,Jarrett Stidham,QB,QB43,DEN,216,2020,QB_backup,,QB_backup,QB_backup,,5,2.588,0.284,0,,0.046,0,0.021,0,
+452,Jawhar Jordan,RB,RB93,HOU,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+453,Jaydn Ott,RB,RB102,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+454,Jaylin Lane,WR,WR133,WAS,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,13,3.938,0.407,0.237,15.682,0.002,0.095,0,0.154,
+455,Jeremy McNichols,RB,RB98,WAS,216,2025,RB_backup,,RB_backup,RB_backup,,15,4.707,0.332,0.113,-1.444,0.095,0.08,0.065,0.2,
+456,Jeremy Ruckert,TE,TE55,NYJ,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,13,3.608,0.483,0.14,3.328,0,0.079,0,0.231,
+457,Jerjuan Newton,WR,WR147,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+458,Jermar Jefferson,RB,RB92,UNK,216,2021,RB_backup,,RB_backup,RB_backup,,4,6.425,0.105,0.058,-0.25,0.13,0.038,0.333,0, | Team not found in lookup
+459,Jerome Ford,RB,RB93,CLE,216,2025,RB_backup,,RB_backup,RB_backup,,13,3.354,0.305,0.099,-1.462,0.075,0.073,0.043,0.462,
+460,Jimmy Horn,WR,WR150,CAR,216,2025,WR_depth,,WR_depth,WR_depth,,9,2.911,0.203,0.117,4.917,0.03,0.067,0,0.333,
+461,Jody Fortson,TE,TE49,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+462,Joe Flacco,QB,QB42,CIN,216,2025,QB_pocket,,QB_pocket,QB_pocket,,12,12.205,0.842,0,,0.068,0,0.081,0,
+463,Joe Milton,QB,QB48,DAL,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+464,Joe Mixon,RB,RB93,UNK,216,2024,RB_bellcow_dual,,RB_bellcow_dual,RB_bellcow_dual,,13,18.208,0.651,0.189,-0.881,0.706,0.129,0.83,0.538, | Team not found in lookup
+465,Joe Royer,TE,TE51,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+466,Joel Wilson,TE,TE54,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+467,John Bates,TE,TE62,WAS,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,8,2.25,0.548,0.136,4.688,0,0.072,0,0.125,
+468,John Metchie III,WR,WR154,NYJ,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,11,6.082,0.58,0.285,4.917,0.009,0.14,0,0.455,
+469,John Michael Gyllenborg,TE,TE59,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+470,John Ross,WR,WR154,UNK,216,2021,WR_depth,,WR_depth,WR_depth,,9,4.556,0.344,0.196,12.979,0.009,0.063,0,0.111, | Team not found in lookup
+471,Johnny Wilson,WR,WR154,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,8,1.175,0.38,0.119,11.375,0,0.048,0,0.375, | Team not found in lookup
+472,Jonathan Ward,RB,RB116,UNK,216,2021,RB_backup,,RB_backup,RB_backup,,5,1.7,0.098,0.028,9.25,0.059,0.014,0,0, | Team not found in lookup
+473,Jonnu Smith,TE,TE62,PIT,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,16,5.238,0.532,0.21,4.321,0.017,0.11,0.018,0.438,
+474,Jordan Mims,RB,RB88,TEN,216,2024,RB_backup,,RB_backup,RB_backup,,6,3.433,0.207,0.134,0.094,0.104,0.087,0.024,0.167,
+475,Jordan Moore,WR,WR131,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+476,Jordan Watkins,WR,WR159,SF,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+477,Jordan Whittington,WR,WR135,LA,216,2025,WR_depth,,WR_depth,WR_depth,,13,2.792,0.477,0.119,7.097,0.008,0.058,0.013,0.077,
+478,Josh Cameron,WR,WR155,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+479,Josh Cuevas,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+480,Josh Oliver,TE,TE54,MIN,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,11,4.555,0.51,0.124,2.97,0,0.065,0,0.636,
+481,Josh Pederson,TE,TE52,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+482,Josh Whyle,TE,TE61,GB,216,2025,TE_depth,,TE_depth,TE_depth,,5,2.64,0.468,0.071,4.8,0,0.041,0,0.2,
+483,Joshua Palmer,WR,WR126,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+484,JuJu Smith-Schuster,WR,WR137,KC,216,2025,WR_depth,,WR_depth,WR_depth,,15,4.68,0.574,0.185,5.231,0,0.093,0,0.6,
+485,Julian Hill,TE,TE59,MIA,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,9,3.022,0.558,0.137,3,0,0.077,0,0.333,
+486,Julius Chestnut,RB,RB88,TEN,216,2025,RB_backup,,RB_backup,RB_backup,,7,0.571,0.073,0.023,11,0.068,0.01,0.129,0,
+487,K.J. Osborn,WR,WR153,UNK,216,2024,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,6,3.117,0.497,0.231,8.322,0,0.11,0,0.5, | Team not found in lookup
+488,Kaden Wetjen,WR,WR140,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+489,Kaleb Johnson,RB,RB86,PIT,216,2025,RB_backup,,RB_backup,RB_backup,,10,0.88,0.091,0.005,-4,0.116,0.007,0.065,0,
+490,Kalel Mullings,RB,RB116,TEN,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+491,Kalen Ballage,RB,RB102,UNK,216,2021,RB_backup,,RB_backup,RB_backup,,7,0.914,0.11,0.04,0,0.067,0.027,0,0.143, | Team not found in lookup
+492,Kareem Hunt,RB,RB100,KC,216,2025,RB_committee_early_down,,RB_committee_early_down_s1,RB_committee_early_down_s1,goalline,16,8.681,0.476,0.058,0.09,0.398,0.038,0.412,0.312,
+493,Kazmeir Allen,RB,RB93,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+494,KeAndre Lambert-Smith,WR,WR144,LAC,216,2025,WR_deep_threat,,WR_deep_threat_s0,WR_deep_threat_s0,,6,1.95,0.205,0.109,19.75,0,0.037,0,0.333,
+495,Keelan Doss,WR,WR136,UNK,216,2019,WR_depth,,WR_depth,WR_depth,,6,4.05,0.438,0.173,6.289,0,0.078,0,0.167, | Team not found in lookup
+496,Kendall Milton,RB,RB94,CIN,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+497,Kendre Miller,RB,RB101,NO,216,2025,RB_backup,,RB_backup,RB_backup,,7,4.757,0.243,0.031,-0.125,0.245,0.021,0.099,0,
+498,Kenny McIntosh,RB,RB100,UNK,216,2024,RB_backup,,RB_backup,RB_backup,,6,2.917,0.167,0.026,1.75,0.179,0.015,0.114,0, | Team not found in lookup
+499,Kenny Pickett,QB,QB48,LV,216,2025,QB_backup,,QB_backup,QB_backup,,5,1.74,0.306,0,,0.066,0,0,0,
+500,Kevin Austin,WR,WR155,NO,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,4,6.325,0.588,0.237,11.4,0,0.109,0,0.5,
+501,Kevin Coleman Jr.,WR,WR126,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+502,Khalil Herbert,RB,RB87,NYJ,216,2024,RB_backup,,RB_backup,RB_backup,,7,2.314,0.106,0.016,-1.5,0.097,0.012,0.149,0.143,
+503,Kirk Merritt,WR,WR142,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+504,Konata Mumpfield,WR,WR148,LA,216,2025,WR_depth,,WR_depth,WR_depth,,8,3.15,0.435,0.172,13.028,0,0.074,0,0.5,
+505,Kwamie Lassiter,WR,WR127,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+506,Kyle Allen,QB,QB47,DET,216,2023,QB_backup,,QB_backup,QB_backup,,6,-0.217,0.088,0,,0.061,0,0.022,0,
+507,Kylen Granson,TE,TE61,PHI,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,13,2.346,0.432,0.158,11.891,0,0.073,0,0.462,
+508,LaJohntay Wester,WR,WR150,BAL,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+509,Lan Larison,RB,RB100,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+510,Laquon Treadwell,WR,WR154,IND,216,2021,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,11,6.455,0.627,0.32,13.542,0,0.128,0,0.273,
+511,Le'Veon Moss,RB,RB102,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+512,Leonard Taylor,TE,TE51,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+513,Lewis Bond,WR,WR157,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+514,Lil'Jordan Humphrey,WR,WR154,DEN,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,7,4.943,0.541,0.272,9.662,0,0.111,0,0.571,
+515,Logan Woodside,QB,QB47,UNK,216,2021,QB_backup,,QB_backup,QB_backup,,4,-0.15,0.02,0,,0.047,0,0,0, | Team not found in lookup
+516,Lucas Krull,TE,TE52,DEN,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,10,3.42,0.376,0.153,4.133,0,0.075,0,0,
+517,Luke Farrell,TE,TE59,SF,216,2025,TE_depth,,TE_depth,TE_depth,,9,3.278,0.387,0.083,3.444,0,0.046,0,0.444,
+518,Luke McCaffrey,WR,WR137,WAS,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,7,7.329,0.397,0.22,16.333,0,0.087,0,0.429,
+519,Luke Musgrave,TE,TE64,GB,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,13,3.785,0.439,0.177,8.333,0,0.085,0,0.077,
+520,Luke Schoonmaker,TE,TE54,DAL,216,2025,TE_depth,,TE_depth,TE_depth,,13,1.923,0.328,0.099,8.346,0,0.046,0,0.154,
+521,Luke Stocker,TE,TE49,UNK,216,2020,TE_depth,,TE_depth,TE_depth,,9,1.478,0.454,0.05,1.963,0,0.03,0,0.111, | Team not found in lookup
+522,Mac Jones,QB,QB39,SF,216,2025,QB_pocket,,QB_pocket,QB_pocket,,11,11.822,0.744,0,,0.126,0,0.042,0,
+523,Mack Hollins,WR,WR126,NE,216,2025,WR_WR3_high_volume,,WR_WR3_high_volume,WR_WR3_high_volume,,14,8.1,0.684,0.388,11.941,0.002,0.162,0,0.357,
+524,Malachi Corley,WR,WR155,CLE,216,2025,WR_depth,,WR_depth,WR_depth,,11,2.345,0.255,0.063,-0.464,0.034,0.046,0.034,0,
+525,Malik Cunningham,WR,WR136,DET,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+526,Malik Heath,WR,WR156,GB,216,2025,WR_depth,,WR_depth,WR_depth,,5,2.92,0.294,0.092,12.067,0,0.043,0,0,
+527,Malik Taylor,WR,WR145,UNK,216,2020,WR_depth,,WR_depth,WR_depth,,6,3.083,0.338,0.059,8.4,0.005,0.03,0,0.167, | Team not found in lookup
+528,Marcus Mariota,QB,QB44,WAS,216,2025,QB_rushing,,QB_rushing,QB_rushing,,10,12.55,0.808,0,,0.175,0,0.208,0,
+529,Mark Redman,TE,TE55,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+530,Marlin Klein,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+531,Marlon Mack,RB,RB89,UNK,216,2022,RB_backup,,RB_backup,RB_backup,,5,7.66,0.19,0.084,0,0.136,0.066,0.05,0, | Team not found in lookup
+532,Marquez Valdes-Scantling,WR,WR155,SF,216,2025,WR_depth,,WR_depth,WR_depth,,8,2.95,0.45,0.208,13.097,0,0.073,0,0.5,
+533,Mason Rudolph,QB,QB44,PIT,216,2025,QB_backup,,QB_backup,QB_backup,,5,3,0.338,0,,0.045,0,0.025,0,
+534,Mason Tipton,WR,WR157,NO,216,2025,WR_depth,,WR_depth,WR_depth,,6,3.4,0.503,0.161,10.208,0.025,0.072,0,0.333,
+535,Maurice Alexander,WR,WR158,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+536,Max Duggan,QB,QB51,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+537,Max Klare,TE,TE50,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+538,Michael Carter,RB,RB96,ARI,216,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,12,7.675,0.446,0.149,2.061,0.332,0.09,0.211,0.583,
+539,Michael Pratt,QB,QB49,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+540,Michael Strachan,WR,WR145,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+541,Michael Trigg,TE,TE54,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+542,Miles Kitselman,TE,TE55,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+543,Miller Forristall,TE,TE48,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+544,Mitch Tinsley,WR,WR154,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+545,Mitchell Evans,TE,TE54,CAR,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,12,3.892,0.388,0.132,5.153,0.003,0.07,0,0.333,
+546,Mitchell Trubisky,QB,QB49,BUF,216,2024,QB_backup,,QB_backup,QB_backup,,7,0.86,0.123,0,,0.057,0,0.039,0,
+547,Mo Alie-Cox,TE,TE59,IND,216,2025,TE_depth,,TE_depth,TE_depth,,10,2.55,0.395,0.099,5.6,0,0.05,0,0.5,
+548,Montrell Johnson,RB,RB90,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+549,MyCole Pruitt,TE,TE59,UNK,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,6,2.667,0.36,0.111,3.75,0,0.061,0,0.167, | Team not found in lookup
+550,Nate Adkins,TE,TE54,DEN,216,2025,TE_depth,,TE_depth,TE_depth,,6,2.8,0.307,0.092,3.972,0,0.049,0,0.333,
+551,Nate Boerkircher,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+552,Nathan Carter,RB,RB88,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+553,Neal Johnson,TE,TE52,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+554,Nick Boyle,TE,TE51,UNK,216,2020,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,9,4.144,0.647,0.155,5.343,0,0.073,0,0.333, | Team not found in lookup
+555,Nick Chubb,RB,RB93,HOU,216,2025,RB_committee_early_down,,RB_committee_early_down_s0,RB_committee_early_down_s0,,15,5.887,0.322,0.062,1.538,0.306,0.04,0.172,0.133,
+556,Nick Mullens,QB,QB51,JAX,216,2024,QB_backup,,QB_backup,QB_backup,,4,0.33,0.025,0,,0.03,0,0,0,
+557,Nick Nash,WR,WR154,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+558,Nick Westbrook-Ikhine,WR,WR126,MIA,216,2025,WR_depth,,WR_depth,WR_depth,,9,2.211,0.526,0.158,4.889,0,0.074,0,0.222,
+559,Nikko Remigio,WR,WR157,KC,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+560,Noah Brown,WR,WR157,WAS,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,4,3.325,0.41,0.25,16.083,0,0.091,0,0.5,
+561,Noah Fant,TE,TE54,CIN,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,12,6.275,0.416,0.174,3.41,0,0.097,0,0.333,
+562,Noah Gray,TE,TE51,KC,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,12,2.733,0.528,0.165,6.926,0,0.081,0,0.25,
+563,Noah Togiai,TE,TE58,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+564,Noah Whittington,RB,RB96,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+565,Odell Beckham Jr.,WR,WR126,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,8,1.812,0.206,0.176,8.531,0,0.074,0,0.5, | Team not found in lookup
+566,Payne Durham,TE,TE64,TB,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,4,6.225,0.57,0.188,11.512,0,0.08,0,0.25,
+567,Phil Mafah,RB,RB86,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+568,Pierre Strong Jr.,RB,RB103,UNK,216,2024,RB_backup,,RB_backup,RB_backup,,11,3.2,0.235,0.086,0.252,0.099,0.056,0,0.091, | Team not found in lookup
+569,Quinn Ewers,QB,QB48,MIA,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+570,Raheem Blackshear,RB,RB93,UNK,216,2023,RB_backup,,RB_backup,RB_backup,,6,2.417,0.103,0.057,1.9,0.09,0.035,0.076,0, | Team not found in lookup
+571,Raheim Sanders,RB,RB100,CLE,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+572,Rakim Jarrett,WR,WR144,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,6,3.567,0.458,0.143,11.889,0,0.054,0,0.333, | Team not found in lookup
+573,Rasheen Ali,RB,RB95,BAL,216,2025,RB_backup,,RB_backup,RB_backup,,7,3.457,0.247,0.117,-0.567,0.034,0.078,0.065,0.143,
+574,Reggie Virgil,WR,WR155,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+575,Ricky White,WR,WR154,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+576,Riley Leonard,QB,QB47,IND,216,2025,QB_backup,,QB_backup,QB_backup,,4,2.1,0.242,0,,0.033,0,0.036,0,
+577,Robert Lewis,WR,WR158,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+578,Robert Tonyan,TE,TE64,KC,216,2023,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,10,2.22,0.322,0.112,8.325,0,0.056,0,0.2,
+579,Roman Hemby,RB,RB103,LV,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+580,Roman Wilson,WR,WR133,PIT,216,2025,WR_depth,,WR_depth,WR_depth,,9,4.289,0.417,0.224,11.73,0,0.077,0,0.111,
+581,Ronald Jones,RB,RB86,UNK,216,2022,RB_backup,,RB_backup,RB_backup,,4,1.425,0.065,0.009,-1,0.068,0.007,0.017,0, | Team not found in lookup
+582,Ronnie Bell,WR,WR147,NO,216,2023,WR_depth,,WR_depth,WR_depth,,7,3.329,0.177,0.102,11.071,0,0.04,0,0.286,
+583,Roschon Johnson,RB,RB100,CHI,216,2024,RB_backup,,RB_backup,RB_backup,,11,6.409,0.336,0.062,2.056,0.166,0.039,0.224,0.182,
+584,Russell Wilson,QB,QB41,NYG,216,2025,QB_backup,,QB_backup,QB_backup,,6,8.307,0.543,0,,0.124,0,0.27,0,
+585,Salvon Ahmed,RB,RB105,UNK,216,2023,RB_backup,,RB_backup,RB_backup,,7,6.129,0.291,0.149,1.033,0.132,0.095,0.122,0.714, | Team not found in lookup
+586,Sam Roush,TE,TE54,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+587,Scotty Miller,WR,WR147,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+588,Seth Henigan,QB,QB40,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+589,Seth McGowan,RB,RB91,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+590,Seydou Traore,TE,TE67,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+591,Sione Vaki,RB,RB100,DET,216,2024,RB_backup,,RB_backup,RB_backup,,4,2.025,0.068,0.039,8,0.036,0.02,0,0,
+592,Skyy Moore,WR,WR125,SF,216,2025,WR_deep_threat,,WR_deep_threat_s0,WR_deep_threat_s0,,9,1.644,0.158,0.067,15.714,0.007,0.025,0,0,
+593,Spencer Rattler,QB,QB49,NO,216,2025,QB_pocket,,QB_pocket,QB_pocket,,9,11.016,0.817,0.015,2,0.14,0.008,0.093,0.111,
+594,Stetson Bennett,QB,QB53,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+595,Stone Smartt,TE,TE64,NYJ,216,2024,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,7,4.971,0.337,0.198,10.214,0,0.087,0,0.143,
+596,Tai Felton,WR,WR150,MIN,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+597,Tanner Conner,TE,TE60,MIA,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s1,TE_TE2_rotational_s1,,7,2.586,0.353,0.152,8.345,0,0.069,0,0.429,
+598,Tanner Hudson,TE,TE54,CIN,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,10,4.78,0.208,0.123,5.623,0,0.064,0,0.6,
+599,Tanner Koziol,TE,TE54,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+600,Tanner McKee,QB,QB48,PHI,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+601,Taylen Green,QB,QB44,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+602,Taylor Heinicke,QB,QB45,UNK,216,2024,QB_backup,,QB_backup,QB_backup,,4,0.78,0.098,0,,0.017,0,0,0, | Team not found in lookup
+603,Taysom Hill,TE,TE62,NO,216,2025,TE_depth,,TE_depth,TE_depth,,12,2.965,0.238,0.056,3.333,0.176,0.032,0.203,0,
+604,Teddy Bridgewater,QB,QB48,TB,216,2022,QB_backup,,QB_backup,QB_backup,,5,7.604,0.4,0,,0.027,0,0.1,0,
+605,Terrace Marshall Jr.,WR,WR155,UNK,216,2024,WR_depth,,WR_depth,WR_depth,,5,1.42,0.334,0.073,6.8,0,0.034,0,0, | Team not found in lookup
+606,Theo Riddick,RB,RB93,UNK,216,2020,RB_backup,,RB_backup,RB_backup,,4,2.675,0.16,0.067,-1,0.058,0.041,0.062,0.25, | Team not found in lookup
+607,Theo Wease,WR,WR156,MIA,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+608,Tim Jones,WR,WR161,JAX,216,2023,WR_depth,,WR_depth,WR_depth,,8,2.2,0.445,0.126,7.9,0,0.056,0,0.125,
+609,Tim Patrick,WR,WR154,JAX,216,2025,WR_depth,,WR_depth,WR_depth,,12,4.192,0.29,0.149,10.528,0,0.064,0,0.667,
+610,Tommy DeVito,QB,QB49,UNK,216,2023,QB_pocket,,QB_pocket,QB_pocket,,8,11.622,0.849,0,,0.18,0,0.079,0.125, | Team not found in lookup
+611,Tommy Mellott,WR,WR134,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+612,Tommy Tremble,TE,TE64,CAR,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s0,TE_TE2_rotational_s0,,14,3.65,0.583,0.172,3.554,0,0.088,0,0.286,
+613,Travis Vokolek,TE,TE49,ARI,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+614,Trayveon Williams,RB,RB92,CLE,216,2025,RB_backup,,RB_backup,RB_backup,,4,3.525,0.31,0.045,-2.833,0.107,0.064,0,0.5,
+615,Tre Stewart,RB,RB88,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+616,Trebor Pena,WR,WR141,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+617,Trevor Etienne,RB,RB86,CAR,216,2025,RB_backup,,RB_backup,RB_backup,,8,1.712,0.091,0.021,0.667,0.085,0.013,0.167,0,
+618,Trey Benson,RB,RB93,ARI,216,2025,RB_committee_early_down,,RB_committee_early_down_s2,RB_committee_early_down_s2,,4,8.85,0.482,0.175,-1.667,0.315,0.129,0.225,0.5,
+619,Trey Lance,QB,QB48,LAC,216,2021,QB_backup,,QB_backup,QB_backup,,6,10.82,0.448,0,,0.209,0,0.367,0,
+620,Trey Palmer,WR,WR142,UNK,216,2024,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,10,3.52,0.345,0.182,14.658,0,0.059,0,0.2, | Team not found in lookup
+621,Trey Sermon,RB,RB93,PIT,216,2024,RB_backup,,RB_backup,RB_backup,,13,4.023,0.26,0.053,0.685,0.153,0.036,0.154,0.154,
+622,Trinidad Chambliss,QB,QB41,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+623,Tutu Atwell,WR,WR126,LA,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,7,4.043,0.347,0.124,18.393,0,0.045,0,0.143,
+624,Ty Chandler,RB,RB96,MIN,216,2024,RB_backup,,RB_backup,RB_backup,,10,2.84,0.232,0.033,-2.167,0.208,0.024,0.153,0.1,
+625,Ty Simpson,QB,QB44,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+626,Tylan Wallace,WR,WR148,BAL,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,6,2.417,0.373,0.136,14.583,0,0.052,0,0.333,
+627,Tyler Conklin,TE,TE51,LAC,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,5,3.14,0.3,0.104,3.767,0.008,0.051,0,0,
+628,Tyler Goodson,RB,RB100,IND,216,2025,RB_backup,,RB_backup,RB_backup,,6,0.817,0.078,0.017,-1,0.059,0.012,0,0.167,
+629,Tyler Higbee,TE,TE64,LA,216,2025,TE_TE2_rotational,,TE_TE2_rotational_s2,TE_TE2_rotational_s2,,8,6.375,0.541,0.163,-2.344,0,0.117,0,0.875,
+630,Tyler Huntley,QB,QB48,BAL,216,2025,QB_backup,,QB_backup,QB_backup,,5,8.028,0.594,0,,0.129,0,0.114,0,
+631,Tyler Johnson,WR,WR157,NYJ,216,2025,WR_depth,,WR_depth,WR_depth,,9,4.189,0.481,0.193,8.519,0,0.078,0,0.333,
+632,Tyler Scott,WR,WR145,UNK,216,2023,WR_depth,,WR_depth,WR_depth,,12,2.808,0.426,0.239,11.195,0.018,0.089,0,0.417, | Team not found in lookup
+633,Tyree Jackson,TE,TE51,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+634,Tyrell Shavers,WR,WR155,BUF,216,2025,WR_depth,,WR_depth,WR_depth,,10,4.55,0.434,0.222,12.207,0,0.085,0,0,
+635,Tyrod Taylor,QB,QB48,NYJ,216,2025,QB_pocket,,QB_pocket,QB_pocket,,6,9.91,0.67,0,,0.186,0,0.071,0,
+636,Tyson Bagent,QB,QB48,CHI,216,2024,QB_backup,,QB_backup,QB_backup,,4,-0.065,0.052,0,,0.045,0,0,0,
+637,Van Jefferson,WR,WR154,TEN,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s1,WR_WR3_rotational_s1,,14,5,0.648,0.321,10.132,0,0.12,0,0.214,
+638,Wayne Gallman,RB,RB105,UNK,216,2021,RB_backup,,RB_backup,RB_backup,,6,2.25,0.128,0.026,2.25,0.187,0.017,0.042,0, | Team not found in lookup
+639,Will Howard,QB,QB48,PIT,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+640,Will Kacmarek,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+641,Will Levis,QB,QB48,UNK,216,2024,QB_pocket,,QB_pocket,QB_pocket,,11,9.831,0.876,0,,0.17,0,0.268,0, | Team not found in lookup
+642,Will Sheppard,WR,WR151,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+643,Will Shipley,RB,RB100,PHI,216,2025,RB_backup,,RB_backup,RB_backup,,10,1.62,0.112,0.047,0.071,0.046,0.032,0,0,
+644,Xavier Guillory,WR,WR125,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+645,Xavier Hutchinson,WR,WR154,HOU,216,2025,WR_WR3_rotational,,WR_WR3_rotational_s0,WR_WR3_rotational_s0,,15,5.64,0.563,0.225,9.967,0.007,0.098,0.008,0.4,
+646,Xavier Restrepo,WR,WR154,TEN,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually
+647,Xavier Smith,WR,WR155,LA,216,2025,WR_deep_threat,,WR_deep_threat_s2,WR_deep_threat_s2,,9,5.189,0.3,0.2,15.574,0,0.075,0,0.333,
+648,Xavier Weaver,WR,WR142,ARI,216,2025,WR_depth,,WR_depth,WR_depth,,6,2.283,0.535,0.153,14.583,0,0.054,0,0.5,
+649,Zach Davidson,TE,TE64,UNK,216,,,,,,,,,,,,,,,,No historical profile — new player or position change; set cluster_override manually | Team not found in lookup
+650,Zach Ertz,TE,TE64,WAS,216,2025,TE_alpha,,TE_alpha,TE_alpha_s1,,13,9.723,0.665,0.431,9.334,0,0.193,0,0.692,
+651,Zach Wilson,QB,QB48,MIA,216,2023,QB_pocket,,QB_pocket,QB_pocket,,12,9.995,0.915,0,,0.145,0,0.042,0,
+652,Zavier Scott,RB,RB88,MIN,216,2025,RB_backup,,RB_backup,RB_backup,,8,4.562,0.192,0.077,-2.607,0.159,0.056,0.042,0.25,
+,Tua Tagovailoa,QB,,ATL,,,QB_pocket,,QB_pocket,,,,,,,,,,,,

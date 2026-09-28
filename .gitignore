@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+outputs/
+inputs/projections/
+inputs/player_stats_2019_2025.csv
+inputs/snap_counts_2019_2025.csv

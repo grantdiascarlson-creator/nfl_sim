@@ -1,0 +1,338 @@
+player_name,team,position,cluster,effective_cluster,cluster_override,role_tag,projected_ppr
+Jahmyr Gibbs,DET,RB,RB_workhorse_receiving,RB_workhorse_receiving,RB_bellcow_dual,,24.6
+Joe Burrow,CIN,QB,QB_pocket,QB_pocket,,,22
+Ja'Marr Chase,CIN,WR,WR_alpha_possession,WR_alpha_possession,,,21.9
+Jalen Hurts,PHI,QB,QB_rushing,QB_rushing,,,21.6
+Bijan Robinson,ATL,RB,RB_bellcow_dual,RB_bellcow_dual,,,21.4
+Justin Herbert,LAC,QB,QB_rushing,QB_rushing,,,20.9
+Amon-Ra St. Brown,DET,WR,WR_alpha_possession,WR_alpha_possession,,,20.7
+Lamar Jackson,BAL,QB,QB_rushing,QB_rushing,QB_dual_threat_elite,,20.7
+Jared Goff,DET,QB,QB_pocket,QB_pocket,,,20.6
+De'Von Achane,MIA,RB,RB_bellcow_dual,RB_bellcow_dual,,,19.9
+Trevor Lawrence,JAX,QB,QB_rushing,QB_rushing,,,19.7
+Josh Allen,BUF,QB,QB_rushing,QB_rushing,QB_dual_threat_elite,,19.5
+Caleb Williams,CHI,QB,QB_pocket,QB_pocket,,,19.4
+Baker Mayfield,TB,QB,QB_pocket,QB_pocket,,,19
+Jonathan Taylor,IND,RB,RB_bellcow_runner,RB_bellcow_runner,,,18.9
+Chris Olave,NO,WR,WR_alpha_deep,WR_alpha_deep,,,18.9
+Tyler Shough,NO,QB,QB_pocket,QB_pocket,,,18.9
+Kyler Murray,MIN,QB,QB_rushing,QB_rushing,,,18.7
+Ashton Jeanty,LV,RB,RB_bellcow_dual,RB_bellcow_dual,,,18.6
+Jayden Daniels,WAS,QB,QB_dual_threat_elite,QB_dual_threat_elite,,,18.2
+Saquon Barkley,PHI,RB,RB_workhorse_volume,RB_workhorse_volume,,,18
+Omarion Hampton,LAC,RB,RB_workhorse_early_down,RB_workhorse_early_down,,,18
+Derrick Henry,BAL,RB,RB_workhorse_runner,RB_workhorse_runner,,,18
+Jordan Love,GB,QB,QB_pocket,QB_pocket,,,18
+Daniel Jones,IND,QB,QB_pocket,QB_pocket,,,17.4
+Chase Brown,CIN,RB,RB_bellcow_dual,RB_bellcow_dual,,,17.1
+Justin Jefferson,MIN,WR,WR_alpha_possession,WR_alpha_possession_s1,,,17
+Zay Flowers,BAL,WR,WR_alpha_possession,WR_alpha_possession_s1,,,16.9
+Bryce Young,CAR,QB,QB_pocket,QB_pocket,,,16.5
+James Cook III,BUF,RB,RB_workhorse_volume,RB_workhorse_volume,,,16.2
+Breece Hall,NYJ,RB,RB_workhorse_volume,RB_workhorse_volume,,,16.2
+C.J. Stroud,HOU,QB,QB_pocket,QB_pocket,,,16.2
+Nico Collins,HOU,WR,WR_alpha_deep,WR_alpha_deep_s1,,,16.1
+Malik Willis,MIA,QB,QB_backup,QB_backup,QB_rushing,,16
+Bucky Irving,TB,RB,RB_workhorse_volume,RB_workhorse_volume,RB_committee_featured,,15.9
+Tee Higgins,CIN,WR,WR_WR2,WR_WR2_s1,,,15.8
+Trey McBride,ARI,TE,TE_alpha_elite,TE_alpha_elite,,,15.7
+Jacoby Brissett,ARI,QB,QB_pocket,QB_pocket,,,15.5
+Drake London,ATL,WR,WR_alpha_deep,WR_alpha_deep,,,15.4
+DeVonta Smith,PHI,WR,WR_alpha_deep,WR_alpha_deep_s1,,,15.3
+Travis Etienne Jr.,NO,RB,RB_workhorse_early_down,RB_workhorse_early_down,RB_bellcow_dual,,15.3
+Garrett Wilson,NYJ,WR,WR_alpha_possession,WR_alpha_possession_s1,,,15.3
+Aaron Rodgers,PIT,QB,QB_pocket,QB_pocket,,,15.2
+Ladd McConkey,LAC,WR,WR_WR2_featured,WR_WR2_featured,,,15.1
+Tetairoa McMillan,CAR,WR,WR_alpha_deep,WR_alpha_deep,,,14.7
+Parker Washington,JAX,WR,WR_WR2,WR_WR2_s0,,,14.4
+Cam Ward,TEN,QB,QB_pocket,QB_pocket,,,14.4
+D'Andre Swift,CHI,RB,RB_committee_featured,RB_committee_featured,,goalline,14.1
+Colston Loveland,CHI,TE,TE_TE1,TE_TE1_s0,TE_alpha_elite,,14.1
+Emeka Egbuka,TB,WR,WR_alpha_deep,WR_alpha_deep_s1,WR_WR2_featured,,13.9
+Kirk Cousins,LV,QB,QB_pocket,QB_pocket,,,13.7
+Tyler Warren,IND,TE,TE_alpha,TE_alpha_s0,,,13.6
+Deshaun Watson,CLE,QB,QB_pocket,QB_pocket,,,13.6
+Geno Smith,NYJ,QB,QB_pocket,QB_pocket,,,13.6
+Christian Watson,GB,WR,WR_WR2,WR_WR2_s1,,,13.5
+Tua Tagovailoa,ATL,QB,QB_pocket,QB_pocket,,,13.5
+Jameson Williams,DET,WR,WR_WR2,WR_WR2_s1,,,13.2
+Sam LaPorta,DET,TE,TE_alpha,TE_alpha_s0,,,13.1
+Luther Burden III,CHI,WR,WR_depth,WR_depth,WR_WR2_featured,,12.9
+DK Metcalf,PIT,WR,WR_WR2_featured,WR_WR2_featured,,,12.7
+DJ Moore,BUF,WR,WR_WR3_high_volume,WR_WR3_high_volume,WR_WR2_featured,,12.5
+Chris Godwin Jr.,TB,WR,WR_possession_WR2,WR_possession_WR2,,,12.4
+Quentin Johnston,LAC,WR,WR_WR2,WR_WR2_s1,,,12.4
+David Montgomery,HOU,RB,RB_committee_early_down,RB_committee_early_down_s0,RB_workhorse_volume,,12.3
+Terry McLaurin,WAS,WR,WR_alpha_deep,WR_alpha_deep_s1,,,12.3
+MarShawn Lloyd,GB,RB,,,RB_workhorse_runner,,12.2
+Jeremiyah Love,ARI,RB,,,RB_workhorse_receiving,,12.1
+Rome Odunze,CHI,WR,WR_alpha_deep,WR_alpha_deep_s1,WR_WR2_featured,,12.1
+Jaylen Warren,PIT,RB,RB_workhorse_volume,RB_workhorse_volume,RB_committee_receiving,,12
+Tony Pollard,TEN,RB,RB_workhorse_runner,RB_workhorse_runner,,,11.9
+Quinshon Judkins,CLE,RB,RB_workhorse_volume,RB_workhorse_volume,,,11.7
+Wan'Dale Robinson,TEN,WR,WR_alpha_possession,WR_alpha_possession_s1,,,11.7
+Chuba Hubbard,CAR,RB,RB_committee_early_down,RB_committee_early_down_s2,RB_committee_featured,,11.6
+Josh Downs,IND,WR,WR_WR3_high_volume,WR_WR3_high_volume,WR_possession_WR2,,11.6
+Rico Dowdle,PIT,RB,RB_committee_featured,RB_committee_featured,,,11.6
+Tre Tucker,LV,WR,WR_WR2,WR_WR2_s0,WR_WR2_s0,,11.6
+Marvin Harrison Jr.,ARI,WR,WR_WR2,WR_WR2_s1,,,11.4
+Jordan Addison,MIN,WR,WR_WR2,WR_WR2_s1,,,11.3
+Jayden Reed,GB,WR,WR_WR3_rotational,WR_WR3_rotational_s0,WR_possession_WR2,,11.3
+Juwan Johnson,NO,TE,TE_TE1_receiving,TE_TE1_receiving,,,11.3
+Michael Pittman Jr.,PIT,WR,WR_WR2_featured,WR_WR2_featured,,,11.2
+Bhayshul Tuten,JAX,RB,RB_backup,RB_backup,RB_committee_featured,,11.1
+Aaron Jones Sr.,MIN,RB,RB_committee_featured,RB_committee_featured,RB_committee_receiving,,11
+Tucker Kraft,GB,TE,TE_TE1_receiving,TE_TE1_receiving,,,11
+Harold Fannin Jr.,CLE,TE,TE_alpha,TE_alpha_s0,,,10.9
+Dallas Goedert,PHI,TE,TE_alpha,TE_alpha_s0,,,10.8
+Kyle Pitts Sr.,ATL,TE,TE_alpha,TE_alpha_s0,,,10.7
+Jalen Coker,CAR,WR,WR_WR3_rotational,WR_WR3_rotational_s1,WR_WR2_s0,,10.7
+Michael Mayer,LV,TE,TE_TE1,TE_TE1_s1,TE_alpha_s0,,10.6
+Kenny Gainwell,TB,RB,RB_committee_early_down,RB_committee_early_down_s2,RB_committee_receiving,,10.5
+Jakobi Meyers,JAX,WR,WR_WR2_featured,WR_WR2_featured,WR_possession_WR2,,10.3
+Stefon Diggs,WAS,WR,WR_WR2,WR_WR2_s0,,,10.2
+Matthew Golden,GB,WR,WR_WR3_rotational,WR_WR3_rotational_s0,WR_WR2_s0,,10.2
+Brian Thomas Jr.,JAX,WR,WR_WR2_featured,WR_WR2_featured,,,10.1
+Jordan Mason,MIN,RB,RB_committee_early_down,RB_committee_early_down_s1,,goalline,10
+Michael Wilson,ARI,WR,WR_WR2_featured,WR_WR2_featured,,,10
+Jacory Croskey-Merritt,WAS,RB,RB_committee_early_down,RB_committee_early_down_s0,,,9.9
+Jonathon Brooks,CAR,RB,,,RB_committee_early_down,,9.8
+JAX_DST,JAX,DST,DST_strong,DST_strong,,,9.8
+Alec Pierce,IND,WR,WR_WR2,WR_WR2_s1,,,9.7
+Khalil Shakir,BUF,WR,WR_WR3_high_volume,WR_WR3_high_volume,,,9.5
+Keenan Allen,IND,WR,WR_WR2_featured,WR_WR2_featured,WR_WR2_s0,,9.5
+Carnell Tate,TEN,WR,,,WR_WR2_s0,,9.3
+Mark Andrews,BAL,TE,TE_TE1,TE_TE1_s0,,,9.3
+Rachaad White,WAS,RB,RB_committee_featured,RB_committee_featured,RB_committee_receiving,,9.2
+Dalton Kincaid,BUF,TE,TE_TE1,TE_TE1_s0,,,9.2
+Devaughn Vele,NO,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,9.2
+Dalton Schultz,HOU,TE,TE_alpha,TE_alpha_s0,,,9.2
+Brenton Strange,JAX,TE,TE_TE1,TE_TE1_s0,,,9.1
+Kyle Monangai,CHI,RB,RB_committee_early_down,RB_committee_early_down_s0,,,8.9
+Tyjae Spears,TEN,RB,RB_committee_early_down,RB_committee_early_down_s2,,,8.7
+KC Concepcion,CLE,WR,,,WR_WR2_s0,,8.7
+Jalen McMillan,TB,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,8.7
+Dontayvion Wicks,PHI,WR,WR_WR3_rotational,WR_WR3_rotational_s0,WR_WR2,,8.7
+Jalen Nailor,LV,WR,WR_WR3_rotational,WR_WR3_rotational_s1,WR_WR2,,8.6
+T.J. Hockenson,MIN,TE,TE_TE1,TE_TE1_s1,,,8.3
+LAC_DST,LAC,DST,DST_average,DST_average,,,8.2
+TEN_DST,TEN,DST,DST_weak,DST_weak,,,8.2
+Pat Freiermuth,PIT,TE,TE_TE1,TE_TE1_s1,,,7.9
+Adonai Mitchell,NYJ,WR,WR_WR2,WR_WR2_s0,,,7.8
+Malik Washington,MIA,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,7.7
+Jerry Jeudy,CLE,WR,WR_WR2,WR_WR2_s1,,,7.7
+PHI_DST,PHI,DST,DST_average,DST_strong,DST_strong,,7.7
+Chris Rodriguez Jr.,JAX,RB,RB_committee_early_down,RB_committee_early_down_s0,RB_committee_early_down_s1,goalline,7.6
+Cade Otton,TB,TE,TE_TE1_receiving,TE_TE1_receiving,,,7.6
+DET_DST,DET,DST,DST_average,DST_strong,DST_strong,,7.6
+LV_DST,LV,DST,DST_weak,DST_weak,,,7.5
+Rashod Bateman,BAL,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,7.4
+NYJ_DST,NYJ,DST,DST_weak,DST_weak,,,7.4
+Chig Okonkwo,WAS,TE,TE_TE1,TE_TE1_s1,,,7.3
+Woody Marks,HOU,RB,RB_committee_featured,RB_committee_featured,RB_passing_down,,7.2
+Tyler Allgeier,ARI,RB,RB_backup,RB_backup,RB_committee_early_down_s1,,6.9
+Denzel Boston,CLE,WR,,,WR_WR3_high_volume,,6.9
+PIT_DST,PIT,DST,DST_average,DST_average,,,6.9
+Tre' Harris,LAC,WR,,,WR_WR3_rotational_s1,,6.7
+Calvin Ridley,TEN,WR,WR_WR2,WR_WR2_s0,,,6.6
+Keaton Mitchell,LAC,RB,RB_backup,RB_backup,RB_committee_early_down_s0,,6.5
+Justice Hill,BAL,RB,RB_passing_down,RB_passing_down,,,6.5
+Greg Dulcich,MIA,TE,TE_TE1,TE_TE1_s1,,,6.5
+BAL_DST,BAL,DST,DST_weak,DST_weak,,,6.4
+Jauan Jennings,MIN,WR,WR_WR2,WR_WR2_s1,,,6.3
+BUF_DST,BUF,DST,DST_average,DST_average,,,6.3
+Caleb Douglas,MIA,WR,,,WR_WR3_rotational,,6.3
+Mason Taylor,NYJ,TE,TE_TE1_receiving,TE_TE1_receiving,TE_TE2_rotational,,6.3
+CHI_DST,CHI,DST,DST_average,DST_average,,,6.3
+Gunnar Helm,TEN,TE,TE_TE2_rotational,TE_TE2_rotational_s0,TE_TE2_rotational,,6.2
+Charlie Kolar,LAC,TE,TE_TE2_rotational,TE_TE2_rotational_s2,TE_TE2_rotational,,6.2
+Samaje Perine,CIN,RB,RB_backup,RB_backup,,,6.1
+Andrei Iosivas,CIN,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,6.1
+Makai Lemon,PHI,WR,,,WR_WR3_rotational_s0,,6
+HOU_DST,HOU,DST,DST_strong,DST_strong,,,6
+Ja'Kobi Lane,BAL,WR,,,WR_WR3_rotational,,5.9
+Mike Gesicki,CIN,TE,TE_TE1,TE_TE1_s1,TE_TE2_rotational,,5.9
+GB_DST,GB,DST,DST_weak,DST_weak,,,5.9
+CIN_DST,CIN,DST,DST_weak,DST_weak,,,5.9
+Isaac TeSlaa,DET,WR,WR_deep_threat,WR_deep_threat_s2,,,5.8
+Jahan Dotson,ATL,WR,WR_depth,WR_depth,,,5.8
+Chris Bell,MIA,WR,,,WR_WR3_rotational,,5.8
+Xavier Hutchinson,HOU,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,5.7
+CLE_DST,CLE,DST,DST_average,DST_average,,,5.7
+Dylan Sampson,CLE,RB,RB_backup,RB_backup,,,5.6
+Chris Brooks,GB,RB,RB_backup,RB_backup,,,5.6
+MIN_DST,MIN,DST,DST_average,DST_strong,DST_strong,,5.6
+MIA_DST,MIA,DST,DST_weak,DST_weak,,,5.6
+Mike Washington Jr.,LV,RB,,,RB_backup,,5.5
+Kayshon Boutte,HOU,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,5.4
+Xavier Legette,CAR,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,5.4
+Jaylin Noel,HOU,WR,WR_depth,WR_depth,,,5.4
+ATL_DST,ATL,DST,DST_average,DST_average,,,5.4
+Jack Bech,LV,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,5
+Darren Waller,CAR,TE,TE_alpha,TE_alpha,TE_TE2_rotational,,5
+Darnell Washington,PIT,TE,TE_TE1,TE_TE1_s1,TE_TE2_rotational,,5
+TB_DST,TB,DST,DST_average,DST_average,,,5
+WAS_DST,WAS,DST,DST_weak,DST_weak,,,5
+IND_DST,IND,DST,DST_average,DST_average,,,4.9
+CAR_DST,CAR,DST,DST_average,DST_average,,,4.8
+Kendrick Bourne,ARI,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,4.6
+Brian Robinson Jr.,ATL,RB,RB_backup,RB_backup,,,4.5
+Ray Davis,BUF,RB,RB_backup,RB_backup,,,4.4
+Kalif Raymond,CHI,WR,WR_depth,WR_depth,,,4.4
+Roman Wilson,PIT,WR,WR_depth,WR_depth,,,4.4
+Omar Cooper Jr.,NYJ,WR,,,WR_WR3_rotational_s0,,4.3
+Joshua Palmer,BUF,WR,,,WR_WR3_rotational_s0,,4.3
+Treylon Burks,WAS,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,4.3
+David Njoku,LAC,TE,TE_TE1,TE_TE1_s1,TE_TE2_rotational,,4.3
+ARI_DST,ARI,DST,DST_weak,DST_weak,,,4.3
+Braelon Allen,NYJ,RB,RB_backup,RB_backup,,,4.2
+Travis Hunter,JAX,WR,WR_WR3_high_volume,WR_WR3_high_volume,,,4.1
+Noah Fant,NO,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,4.1
+Erick All Jr.,CIN,TE,TE_TE2_rotational,F,,,4.1
+Dawson Knox,BUF,TE,TE_TE1,TE_TE1_s1,,,4
+NO_DST,NO,DST,DST_average,DST_average,,,4
+Kendre Miller,NO,RB,RB_backup,RB_backup,,,3.9
+Olamide Zaccheaus,ATL,WR,WR_WR3_high_volume,WR_WR3_high_volume,,,3.7
+Cole Kmet,CHI,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,3.7
+Bryce Lance,NO,WR,,,WR_depth,,3.7
+Kaleb Johnson,GB,RB,RB_backup,RB_backup,,,3.4
+Jacob Saylors,DET,RB,,,RB_backup,,3.4
+Tommy Tremble,CAR,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,3.4
+Keon Coleman,BUF,WR,WR_WR2,WR_WR2_s0,WR_WR3_rotational,,3.2
+Sione Vaki,DET,RB,RB_backup,RB_backup,,,3.2
+Elijah Higgins,ARI,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,3.2
+Kenyon Sadiq,NYJ,TE,,,TE_TE1,,3.1
+Elic Ayomanor,TEN,WR,WR_WR2,WR_WR2_s0,,,3
+Daniel Bellinger,TEN,TE,TE_TE2_rotational,TE_TE2_rotational_s1,,,3
+Tank Bigsby,PHI,RB,RB_backup,RB_backup,,,2.9
+Josh Oliver,MIN,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,2.8
+Ted Hurst III,TB,WR,,,WR_WR3_rotational,,2.7
+Mitchell Evans,CAR,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,2.6
+Isaiah Williams,NYJ,WR,WR_depth,WR_depth,,,2.5
+Jaylen Wright,MIA,RB,RB_backup,RB_backup,,,2.4
+Isaiah Davis,NYJ,RB,RB_backup,RB_backup,,,2.4
+Corey Kiner,NE,RB,RB_backup,RB_backup,,,2.4
+Jalen Tolbert,MIA,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,2.4
+Ian Thomas,LV,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,2.4
+Kimani Vidal,LAC,RB,RB_committee_featured,RB_committee_featured,,,2.3
+Ashton Dulin,IND,WR,WR_depth,WR_depth,,,2.3
+Drew Sample,CIN,TE,TE_depth,TE_depth,,,2.3
+Seth McGowan,IND,RB,,,RB_backup,,2.2
+Germie Bernard,PIT,WR,,,WR_WR3_high_volume,,2.2
+Oronde Gadsden II,LAC,TE,TE_TE1,TE_TE1_s0,,,2.2
+Devontez Walker,BAL,WR,WR_deep_threat,WR_deep_threat,,,2.2
+Durham Smythe,BAL,TE,TE_depth,TE_depth,,,2.2
+Jonnu Smith,GB,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,2.1
+Austin Hooper,ATL,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,2.1
+Zachariah Branch,ATL,WR,,,WR_WR3_high_volume,,2
+Isaiah Bond,CLE,WR,WR_WR3_rotational,WR_WR3_rotational,,,2
+Mo Alie-Cox,IND,TE,TE_depth,TE_depth,,,2
+Cade Stover,HOU,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,1.9
+Malik Benson,LV,WR,WR_depth,WR_depth,,,1.8
+Kevin Austin Jr.,NO,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,1.8
+Will Kacmarek,MIA,TE,,,,,1.8
+Barion Brown,NO,WR,,,WR_depth,,1.7
+Brock Wright,DET,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,1.7
+Blake Whiteheart,CLE,TE,TE_depth,TE_depth,,nan,1.7
+Johnny Mundt,PHI,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,nan,1.6
+Ollie Gordon II,MIA,RB,RB_backup,RB_backup,,,1.5
+Ben Sinnott,WAS,TE,TE_TE2_rotational,TE_TE2_rotational_s1,,,1.5
+Nate Boerkircher,JAX,TE,,,,,1.5
+Josh Whyle,GB,TE,TE_depth,TE_depth,,,1.5
+John Bates,WAS,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,1.5
+Tai Felton,MIN,WR,,,WR_depth,,1.4
+Foster Moreau,HOU,TE,TE_depth,TE_depth,,,1.4
+Jackson Hawes,BUF,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,1.4
+Ameer Abdullah,JAX,RB,RB_backup,RB_backup,,,1.3
+Alec Ingold,LAC,RB,FB,FB,,,1.3
+Brenen Thompson,LAC,WR,,,WR_depth,,1.2
+Dohnte Meyers,CIN,WR,WR_depth,WR_depth,,,1.2
+Marlin Klein,HOU,TE,,,TE_depth,,1.2
+Matt Hibner,BAL,TE,TE_depth,TE_depth,,,1.2
+Bo Melton,GB,WR,WR_depth,WR_depth,,,1.1
+Antonio Williams,WAS,WR,,,WR_WR3_rotational_s1,,1
+Will Shipley,PHI,RB,RB_backup,RB_backup,,,1
+Charlie Woerner,ATL,TE,TE_depth,TE_depth,,nan,0.9
+Drew Ogletree,IND,TE,,,,,0.9
+Kaytron Allen,WAS,RB,,,RB_backup,,0.8
+Roschon Johnson,CHI,RB,RB_backup,RB_backup,,,0.8
+Connor Heyward,LV,RB,TE_depth,TE_depth,,,0.8
+Audric Estime,NO,RB,,,RB_backup,,0.8
+Hollywood Brown,PHI,WR,,,WR_WR3_rotational_s0,,0.8
+Zavion Thomas,CHI,WR,,,WR_WR3_rotational,,0.8
+Elijah Sarratt,BAL,WR,,,WR_WR3_rotational,,0.8
+Chimere Dike,TEN,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,0.8
+Jimmy Horn Jr.,CAR,WR,WR_depth,WR_depth,,,0.8
+Brycen Tremayne,CAR,WR,WR_depth,WR_depth,,nan,0.8
+Darius Cooper,PHI,WR,WR_depth,WR_depth,,,0.8
+Jawhar Jordan,HOU,RB,,,RB_backup,,0.7
+Bam Knight,ARI,RB,RB_committee_early_down,RB_committee_early_down_s1,RB_backup,,0.7
+Colbie Young,CIN,WR,,,WR_depth,,0.7
+Tez Johnson,TB,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,0.7
+Jeremy Ruckert,NYJ,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,,0.7
+Dylan Laube,LV,RB,RB_backup,RB_backup,,,0.6
+Josh Williams,TB,RB,RB_backup,RB_backup,,,0.6
+Devin Duvernay,ARI,WR,WR_depth,WR_depth,,,0.6
+Laquon Treadwell,IND,WR,WR_WR3_rotational,WR_WR3_rotational_s1,,,0.6
+Sam Roush,CHI,TE,,,,,0.6
+Oscar Delp,NO,TE,,,,,0.6
+Hunter Long,ARI,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,nan,0.6
+Quintin Morris,JAX,TE,TE_TE2_rotational,TE_TE2_rotational_s2,,nan,0.6
+Payne Durham,TB,TE,TE_TE2_rotational,TE_TE2_rotational_s0,,,0.6
+Nick Singleton,TEN,RB,,,RB_backup,,0.5
+DJ Giddens,IND,RB,RB_backup,RB_backup,,,0.5
+Rasheen Ali,BAL,RB,RB_backup,RB_backup,,,0.5
+Tahj Brooks,CIN,RB,RB_backup,RB_backup,,,0.5
+Frank Gore Jr.,BUF,RB,RB_workhorse_runner,RB_workhorse_runner,,,0.5
+Luke McCaffrey,WAS,WR,WR_deep_threat,WR_deep_threat_s2,,,0.5
+Dyami Brown,WAS,WR,WR_WR3_rotational,WR_WR3_rotational,,,0.5
+Skyler Bell,BUF,WR,,,WR_depth,,0.5
+Jaylin Lane,WAS,WR,WR_deep_threat,WR_deep_threat_s2,,,0.5
+Jalen Brooks,ARI,WR,WR_depth,WR_depth,,,0.5
+Jared Wayne,HOU,WR,WR_depth,WR_depth,,,0.5
+Kylen Granson,TEN,TE,TE_TE2_rotational,TE_TE2_rotational_s1,,,0.5
+Nate Carter,ATL,RB,RB_backup,RB_backup,,,0.4
+AJ Dillon,CAR,RB,RB_backup,RB_backup,,,0.4
+Skyy Moore,GB,WR,WR_deep_threat,WR_deep_threat_s0,,,0.4
+Kevin Coleman Jr.,MIA,WR,,,WR_depth,,0.4
+Ryan Miller,MIA,WR,WR_deep_threat,WR_deep_threat_s0,,nan,0.4
+Demond Claiborne,MIN,RB,,,RB_backup,,0.3
+Raheim Sanders,CLE,RB,,,RB_backup,,0.3
+British Brooks,HOU,RB,RB_backup,RB_backup,,,0.3
+John Metchie III,CAR,WR,WR_WR3_rotational,WR_WR3_rotational_s0,,,0.3
+Jahdae Walker,CHI,WR,WR_depth,WR_depth,,,0.3
+Tylan Wallace,CLE,WR,WR_deep_threat,WR_deep_threat_s2,,,0.3
+Tay Martin,DET,WR,WR_depth,WR_depth,,,0.3
+Josh Cameron,JAX,WR,,,WR_depth,,0.3
+CJ Williams,JAX,WR,WR_depth,WR_depth,,,0.3
+Deven Thompkins,LV,WR,WR_depth,WR_depth,,nan,0.3
+Elijah Moore,PHI,WR,WR_depth,WR_depth,,,0.3
+Ben Skowronek,PIT,WR,WR_depth,WR_depth,,,0.3
+Carsen Ryan,CLE,TE,TE_depth,TE_depth,,,0.3
+Ben Yurosek,MIN,TE,,,,,0.3
+Jelani Woods,NYJ,TE,TE_TE1,TE_TE1_s1,,nan,0.3
+Bauer Sharp,TB,TE,TE_depth,TE_depth,,,0.3
+Colson Yankoff,WAS,TE,TE_depth,TE_depth,,,0.3
+DJ Herman,MIA,RB,RB_backup,RB_backup,,,0.2
+Chris Blair,ATL,WR,WR_depth,WR_depth,,,0.2
+Ke'Shawn Williams,CIN,WR,WR_depth,WR_depth,,,0.2
+Malachi Corley,CLE,WR,WR_depth,WR_depth,,,0.2
+Jackson Meeks,DET,WR,WR_depth,WR_depth,,,0.2
+Tim Patrick,NYJ,WR,WR_depth,WR_depth,,,0.2
+Jack Endries,CIN,TE,,,,,0.2
+Ko Kieft,TB,TE,TE_depth,TE_depth,,nan,0.2
+Michael Burton,CLE,RB,FB,FB,,,0.1
+Riley Nowakowski,PIT,RB,RB_backup,RB_backup,,,0.1
+J. Michael Sturdivant,GB,WR,WR_depth,WR_depth,,,0.1
+Derius Davis,LAC,WR,WR_depth,WR_depth,,,0.1
+Kaden Wetjen,PIT,WR,,,WR_depth,,0.1
+Will Mallory,IND,TE,TE_depth,TE_depth,,nan,0.1
+Seydou Traore,MIA,TE,,,,,0.1
+Justin Joly,MIA,TE,,,,,0.1
+Robert Tonyan,PIT,TE,TE_TE2_rotational,TE_TE2_rotational_s1,,,0.1
+Taylen Green,CLE,QB,,QB_backup,,,0
+Mason Rudolph,PIT,QB,QB_backup,QB_backup,,,0
+Drew Allar,PIT,QB,,QB_backup,,,0
+Nick Westbrook-Ikhine,IND,WR,WR_depth,WR_depth,,,0
+Keleki Latu,BUF,TE,TE_depth,TE_depth,,,0
+E.J. Jenkins,PHI,TE,TE_depth,TE_depth,,,0
